@@ -1,0 +1,1808 @@
+[
+  {
+    "name": "Banda Aceh",
+    "lat": 5.54167,
+    "lon": 95.33333,
+    "coordinates": {
+      "latitude": 5.5,
+      "longitude": 95.375,
+      "elevation": 5.0
+    },
+    "weather_data": {
+      "temperature_2m": 29.299999237060547,
+      "relative_humidity_2m": 68.0,
+      "weather_code": 3,
+      "wind_speed_10m": 14.512063980102539,
+      "wind_direction_10m": 209.7447967529297,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.241445"
+    }
+  },
+  {
+    "name": "Pekanbaru",
+    "lat": 0.51667,
+    "lon": 101.44167,
+    "coordinates": {
+      "latitude": 0.5,
+      "longitude": 101.5,
+      "elevation": 18.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.0,
+      "relative_humidity_2m": 81.0,
+      "weather_code": 3,
+      "wind_speed_10m": 4.829906940460205,
+      "wind_direction_10m": 206.5649871826172,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.241445"
+    }
+  },
+  {
+    "name": "Pangkal Pinang",
+    "lat": -2.16319,
+    "lon": 106.13922,
+    "coordinates": {
+      "latitude": -2.125,
+      "longitude": 106.125,
+      "elevation": 32.0
+    },
+    "weather_data": {
+      "temperature_2m": 30.149999618530273,
+      "relative_humidity_2m": 69.0,
+      "weather_code": 3,
+      "wind_speed_10m": 6.489992141723633,
+      "wind_direction_10m": 160.55987548828125,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.241445"
+    }
+  },
+  {
+    "name": "Palangkaraya",
+    "lat": -2.20833,
+    "lon": 113.91667,
+    "coordinates": {
+      "latitude": -2.25,
+      "longitude": 113.875,
+      "elevation": 13.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.399999618530273,
+      "relative_humidity_2m": 77.0,
+      "weather_code": 3,
+      "wind_speed_10m": 7.491114139556885,
+      "wind_direction_10m": 125.21768188476562,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.241445"
+    }
+  },
+  {
+    "name": "Bandung",
+    "lat": -6.92222,
+    "lon": 107.60694,
+    "coordinates": {
+      "latitude": -6.875,
+      "longitude": 107.5,
+      "elevation": 707.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.600000381469727,
+      "relative_humidity_2m": 67.0,
+      "weather_code": 1,
+      "wind_speed_10m": 1.4843180179595947,
+      "wind_direction_10m": 75.96372985839844,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.241445"
+    }
+  },
+  {
+    "name": "Denpasar",
+    "lat": -8.65,
+    "lon": 115.21667,
+    "coordinates": {
+      "latitude": -8.625,
+      "longitude": 115.25,
+      "elevation": 35.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.600000381469727,
+      "relative_humidity_2m": 70.0,
+      "weather_code": 2,
+      "wind_speed_10m": 17.283748626708984,
+      "wind_direction_10m": 144.32350158691406,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.241445"
+    }
+  },
+  {
+    "name": "Palu",
+    "lat": -0.90833,
+    "lon": 119.87083,
+    "coordinates": {
+      "latitude": -1.0,
+      "longitude": 119.875,
+      "elevation": 9.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.299999237060547,
+      "relative_humidity_2m": 82.0,
+      "weather_code": 80,
+      "wind_speed_10m": 1.2979984283447266,
+      "wind_direction_10m": 56.309913635253906,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.241445"
+    }
+  },
+  {
+    "name": "Ambon",
+    "lat": -3.69583,
+    "lon": 128.18333,
+    "coordinates": {
+      "latitude": -3.625,
+      "longitude": 128.125,
+      "elevation": 8.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.100000381469727,
+      "relative_humidity_2m": 83.0,
+      "weather_code": 3,
+      "wind_speed_10m": 7.9932966232299805,
+      "wind_direction_10m": 125.8377456665039,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.241445"
+    }
+  },
+  {
+    "name": "Merauke",
+    "lat": -8.49958,
+    "lon": 140.40613,
+    "coordinates": {
+      "latitude": -8.5,
+      "longitude": 140.375,
+      "elevation": 6.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.049999237060547,
+      "relative_humidity_2m": 80.0,
+      "weather_code": 3,
+      "wind_speed_10m": 19.242326736450195,
+      "wind_direction_10m": 162.58193969726562,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.241445"
+    }
+  },
+  {
+    "name": "Cirebon",
+    "lat": -6.7063,
+    "lon": 108.557,
+    "coordinates": {
+      "latitude": -6.625,
+      "longitude": 108.375,
+      "elevation": 8.0
+    },
+    "weather_data": {
+      "temperature_2m": 31.100000381469727,
+      "relative_humidity_2m": 58.0,
+      "weather_code": 1,
+      "wind_speed_10m": 6.287129878997803,
+      "wind_direction_10m": 166.7594757080078,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.241445"
+    }
+  },
+  {
+    "name": "Poso",
+    "lat": -1.3959,
+    "lon": 120.7524,
+    "coordinates": {
+      "latitude": -1.375,
+      "longitude": 120.75,
+      "elevation": 9.0
+    },
+    "weather_data": {
+      "temperature_2m": 29.799999237060547,
+      "relative_humidity_2m": 70.0,
+      "weather_code": 2,
+      "wind_speed_10m": 3.617955207824707,
+      "wind_direction_10m": 84.28949737548828,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.241445"
+    }
+  },
+  {
+    "name": "Sigi",
+    "lat": -5.01667,
+    "lon": 38.8,
+    "coordinates": {
+      "latitude": -5.0,
+      "longitude": 38.75,
+      "elevation": 127.0
+    },
+    "weather_data": {
+      "temperature_2m": 16.350000381469727,
+      "relative_humidity_2m": 89.0,
+      "weather_code": 1,
+      "wind_speed_10m": 5.58870267868042,
+      "wind_direction_10m": 255.0685272216797,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.241445"
+    }
+  },
+  {
+    "name": "Raja Ampat",
+    "lat": -5.53569,
+    "lon": 132.2998,
+    "coordinates": {
+      "latitude": -5.5,
+      "longitude": 132.25,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.25,
+      "relative_humidity_2m": 79.0,
+      "weather_code": 3,
+      "wind_speed_10m": 10.163227081298828,
+      "wind_direction_10m": 157.06787109375,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.241445"
+    }
+  },
+  {
+    "name": "Sukabumi",
+    "lat": -6.91806,
+    "lon": 106.92667,
+    "coordinates": {
+      "latitude": -6.875,
+      "longitude": 106.875,
+      "elevation": 612.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.450000762939453,
+      "relative_humidity_2m": 73.0,
+      "weather_code": 3,
+      "wind_speed_10m": 10.188699722290039,
+      "wind_direction_10m": 147.99465942382812,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.242446"
+    }
+  },
+  {
+    "name": "Cikarang",
+    "lat": -6.26111,
+    "lon": 107.15278,
+    "coordinates": {
+      "latitude": -6.25,
+      "longitude": 107.125,
+      "elevation": 18.0
+    },
+    "weather_data": {
+      "temperature_2m": 30.399999618530273,
+      "relative_humidity_2m": 59.0,
+      "weather_code": 3,
+      "wind_speed_10m": 1.0182337760925293,
+      "wind_direction_10m": 135.00010681152344,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.242446"
+    }
+  },
+  {
+    "name": "Indramayu",
+    "lat": -6.32639,
+    "lon": 108.32,
+    "coordinates": {
+      "latitude": -6.5,
+      "longitude": 108.5,
+      "elevation": 6.0
+    },
+    "weather_data": {
+      "temperature_2m": 31.950000762939453,
+      "relative_humidity_2m": 50.0,
+      "weather_code": 1,
+      "wind_speed_10m": 15.856353759765625,
+      "wind_direction_10m": 140.52757263183594,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.242446"
+    }
+  },
+  {
+    "name": "Purwakarta",
+    "lat": -6.55694,
+    "lon": 107.44333,
+    "coordinates": {
+      "latitude": -6.5,
+      "longitude": 107.5,
+      "elevation": 84.0
+    },
+    "weather_data": {
+      "temperature_2m": 29.299999237060547,
+      "relative_humidity_2m": 61.0,
+      "weather_code": 1,
+      "wind_speed_10m": 0.7199999690055847,
+      "wind_direction_10m": 90.0,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.242446"
+    }
+  },
+  {
+    "name": "Medan",
+    "lat": 3.58333,
+    "lon": 98.66667,
+    "coordinates": {
+      "latitude": 3.625,
+      "longitude": 98.625,
+      "elevation": 28.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.100000381469727,
+      "relative_humidity_2m": 82.0,
+      "weather_code": 3,
+      "wind_speed_10m": 1.9386591911315918,
+      "wind_direction_10m": 68.19853210449219,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.242446"
+    }
+  },
+  {
+    "name": "Palembang",
+    "lat": -2.91673,
+    "lon": 104.7458,
+    "coordinates": {
+      "latitude": -2.875,
+      "longitude": 104.75,
+      "elevation": 5.0
+    },
+    "weather_data": {
+      "temperature_2m": 29.100000381469727,
+      "relative_humidity_2m": 72.0,
+      "weather_code": 1,
+      "wind_speed_10m": 6.1516828536987305,
+      "wind_direction_10m": 159.44387817382812,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.242446"
+    }
+  },
+  {
+    "name": "Padang",
+    "lat": -0.94924,
+    "lon": 100.35427,
+    "coordinates": {
+      "latitude": -1.0,
+      "longitude": 100.375,
+      "elevation": 6.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.850000381469727,
+      "relative_humidity_2m": 80.0,
+      "weather_code": 1,
+      "wind_speed_10m": 10.739831924438477,
+      "wind_direction_10m": 309.55963134765625,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.242446"
+    }
+  },
+  {
+    "name": "Bengkulu",
+    "lat": -3.80044,
+    "lon": 102.26554,
+    "coordinates": {
+      "latitude": -3.75,
+      "longitude": 102.25,
+      "elevation": 16.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.549999237060547,
+      "relative_humidity_2m": 77.0,
+      "weather_code": 1,
+      "wind_speed_10m": 4.104631423950195,
+      "wind_direction_10m": 164.7448272705078,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.242446"
+    }
+  },
+  {
+    "name": "Tanjung Pinang",
+    "lat": 0.91667,
+    "lon": 104.45833,
+    "coordinates": {
+      "latitude": 0.875,
+      "longitude": 104.625,
+      "elevation": 44.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.649999618530273,
+      "relative_humidity_2m": 77.0,
+      "weather_code": 1,
+      "wind_speed_10m": 10.365250587463379,
+      "wind_direction_10m": 159.67677307128906,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.242446"
+    }
+  },
+  {
+    "name": "Jambi",
+    "lat": -1.6,
+    "lon": 103.61667,
+    "coordinates": {
+      "latitude": -1.625,
+      "longitude": 103.625,
+      "elevation": 18.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.299999237060547,
+      "relative_humidity_2m": 77.0,
+      "weather_code": 3,
+      "wind_speed_10m": 5.411986351013184,
+      "wind_direction_10m": 183.81399536132812,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.242446"
+    }
+  },
+  {
+    "name": "Bandar Lampung",
+    "lat": -5.42917,
+    "lon": 105.26111,
+    "coordinates": {
+      "latitude": -5.375,
+      "longitude": 105.25,
+      "elevation": 91.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.450000762939453,
+      "relative_humidity_2m": 68.0,
+      "weather_code": 3,
+      "wind_speed_10m": 5.039999961853027,
+      "wind_direction_10m": 180.0,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.242446"
+    }
+  },
+  {
+    "name": "Pontianak",
+    "lat": -0.03194,
+    "lon": 109.325,
+    "coordinates": {
+      "latitude": 0.0,
+      "longitude": 109.375,
+      "elevation": 5.0
+    },
+    "weather_data": {
+      "temperature_2m": 30.5,
+      "relative_humidity_2m": 69.0,
+      "weather_code": 3,
+      "wind_speed_10m": 6.439876079559326,
+      "wind_direction_10m": 153.4350128173828,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.242446"
+    }
+  },
+  {
+    "name": "Samarinda",
+    "lat": -0.49167,
+    "lon": 117.14583,
+    "coordinates": {
+      "latitude": -0.5,
+      "longitude": 117.125,
+      "elevation": 20.0
+    },
+    "weather_data": {
+      "temperature_2m": 29.049999237060547,
+      "relative_humidity_2m": 72.0,
+      "weather_code": 3,
+      "wind_speed_10m": 12.979984283447266,
+      "wind_direction_10m": 199.44012451171875,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.242446"
+    }
+  },
+  {
+    "name": "Banjarbaru",
+    "lat": -3.4406,
+    "lon": 114.8365,
+    "coordinates": {
+      "latitude": -3.5,
+      "longitude": 114.875,
+      "elevation": 23.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.700000762939453,
+      "relative_humidity_2m": 75.0,
+      "weather_code": 3,
+      "wind_speed_10m": 6.119999885559082,
+      "wind_direction_10m": 118.07239532470703,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.243446"
+    }
+  },
+  {
+    "name": "Tanjung Selor",
+    "lat": 2.8375,
+    "lon": 117.36528,
+    "coordinates": {
+      "latitude": 2.875,
+      "longitude": 117.375,
+      "elevation": 5.0
+    },
+    "weather_data": {
+      "temperature_2m": 30.299999237060547,
+      "relative_humidity_2m": 67.0,
+      "weather_code": 3,
+      "wind_speed_10m": 10.383987426757812,
+      "wind_direction_10m": 213.69009399414062,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.243446"
+    }
+  },
+  {
+    "name": "Serang",
+    "lat": -6.11528,
+    "lon": 106.15417,
+    "coordinates": {
+      "latitude": -6.125,
+      "longitude": 106.125,
+      "elevation": 30.0
+    },
+    "weather_data": {
+      "temperature_2m": 29.950000762939453,
+      "relative_humidity_2m": 61.0,
+      "weather_code": 2,
+      "wind_speed_10m": 3.7585103511810303,
+      "wind_direction_10m": 343.3006896972656,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.243446"
+    }
+  },
+  {
+    "name": "Jakarta",
+    "lat": -6.21462,
+    "lon": 106.84513,
+    "coordinates": {
+      "latitude": -6.25,
+      "longitude": 106.875,
+      "elevation": 18.0
+    },
+    "weather_data": {
+      "temperature_2m": 30.200000762939453,
+      "relative_humidity_2m": 59.0,
+      "weather_code": 3,
+      "wind_speed_10m": 3.6712939739227295,
+      "wind_direction_10m": 191.3098907470703,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.243446"
+    }
+  },
+  {
+    "name": "Semarang",
+    "lat": -6.99306,
+    "lon": 110.42083,
+    "coordinates": {
+      "latitude": -7.0,
+      "longitude": 110.375,
+      "elevation": 9.0
+    },
+    "weather_data": {
+      "temperature_2m": 29.899999618530273,
+      "relative_humidity_2m": 60.0,
+      "weather_code": 2,
+      "wind_speed_10m": 5.991593837738037,
+      "wind_direction_10m": 122.73522186279297,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.243446"
+    }
+  },
+  {
+    "name": "Yogyakarta",
+    "lat": -7.80139,
+    "lon": 110.36472,
+    "coordinates": {
+      "latitude": -7.875,
+      "longitude": 110.25,
+      "elevation": 110.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.600000381469727,
+      "relative_humidity_2m": 77.0,
+      "weather_code": 80,
+      "wind_speed_10m": 16.279802322387695,
+      "wind_direction_10m": 144.90411376953125,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.243446"
+    }
+  },
+  {
+    "name": "Surabaya",
+    "lat": -7.24917,
+    "lon": 112.75083,
+    "coordinates": {
+      "latitude": -7.25,
+      "longitude": 112.75,
+      "elevation": 6.0
+    },
+    "weather_data": {
+      "temperature_2m": 30.649999618530273,
+      "relative_humidity_2m": 58.0,
+      "weather_code": 1,
+      "wind_speed_10m": 3.5999999046325684,
+      "wind_direction_10m": 126.86998748779297,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.243446"
+    }
+  },
+  {
+    "name": "Kupang",
+    "lat": -10.17083,
+    "lon": 123.60694,
+    "coordinates": {
+      "latitude": -10.125,
+      "longitude": 123.625,
+      "elevation": 92.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.5,
+      "relative_humidity_2m": 61.0,
+      "weather_code": 2,
+      "wind_speed_10m": 10.137691497802734,
+      "wind_direction_10m": 186.1154022216797,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.243446"
+    }
+  },
+  {
+    "name": "Mataram",
+    "lat": -8.58333,
+    "lon": 116.11667,
+    "coordinates": {
+      "latitude": -8.625,
+      "longitude": 116.125,
+      "elevation": 23.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.299999237060547,
+      "relative_humidity_2m": 65.0,
+      "weather_code": 2,
+      "wind_speed_10m": 22.41560173034668,
+      "wind_direction_10m": 150.14108276367188,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.243446"
+    }
+  },
+  {
+    "name": "Gorontalo",
+    "lat": 0.5375,
+    "lon": 123.0625,
+    "coordinates": {
+      "latitude": 0.5,
+      "longitude": 123.0,
+      "elevation": 8.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.049999237060547,
+      "relative_humidity_2m": 86.0,
+      "weather_code": 80,
+      "wind_speed_10m": 12.41347599029541,
+      "wind_direction_10m": 163.1415252685547,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.243446"
+    }
+  },
+  {
+    "name": "Mamuju",
+    "lat": -2.68056,
+    "lon": 118.88611,
+    "coordinates": {
+      "latitude": -2.5,
+      "longitude": 119.0,
+      "elevation": 3.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.350000381469727,
+      "relative_humidity_2m": 81.0,
+      "weather_code": 3,
+      "wind_speed_10m": 2.6208393573760986,
+      "wind_direction_10m": 285.9454650878906,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.244445"
+    }
+  },
+  {
+    "name": "Manado",
+    "lat": 1.48218,
+    "lon": 124.84892,
+    "coordinates": {
+      "latitude": 1.5,
+      "longitude": 125.0,
+      "elevation": 12.0
+    },
+    "weather_data": {
+      "temperature_2m": 31.399999618530273,
+      "relative_humidity_2m": 68.0,
+      "weather_code": 3,
+      "wind_speed_10m": 5.483356475830078,
+      "wind_direction_10m": 336.8013916015625,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.244445"
+    }
+  },
+  {
+    "name": "Kendari",
+    "lat": -3.9778,
+    "lon": 122.51507,
+    "coordinates": {
+      "latitude": -4.0,
+      "longitude": 122.5,
+      "elevation": 5.0
+    },
+    "weather_data": {
+      "temperature_2m": 29.100000381469727,
+      "relative_humidity_2m": 61.0,
+      "weather_code": 3,
+      "wind_speed_10m": 3.617955207824707,
+      "wind_direction_10m": 84.28949737548828,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.244445"
+    }
+  },
+  {
+    "name": "Makassar",
+    "lat": -5.14861,
+    "lon": 119.43194,
+    "coordinates": {
+      "latitude": -5.25,
+      "longitude": 119.375,
+      "elevation": 8.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.850000381469727,
+      "relative_humidity_2m": 70.0,
+      "weather_code": 3,
+      "wind_speed_10m": 12.979984283447266,
+      "wind_direction_10m": 160.55987548828125,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.244445"
+    }
+  },
+  {
+    "name": "Sofifi",
+    "lat": 0.73729,
+    "lon": 127.5588,
+    "coordinates": {
+      "latitude": 0.875,
+      "longitude": 127.625,
+      "elevation": 6.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.25,
+      "relative_humidity_2m": 74.0,
+      "weather_code": 3,
+      "wind_speed_10m": 6.792466163635254,
+      "wind_direction_10m": 237.99465942382812,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.244445"
+    }
+  },
+  {
+    "name": "Manokwari",
+    "lat": -0.86291,
+    "lon": 134.06403,
+    "coordinates": {
+      "latitude": -0.875,
+      "longitude": 134.0,
+      "elevation": 12.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.649999618530273,
+      "relative_humidity_2m": 85.0,
+      "weather_code": 3,
+      "wind_speed_10m": 6.4096174240112305,
+      "wind_direction_10m": 38.15727615356445,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.244445"
+    }
+  },
+  {
+    "name": "Jayapura",
+    "lat": -2.53371,
+    "lon": 140.71812,
+    "coordinates": {
+      "latitude": -2.625,
+      "longitude": 140.75,
+      "elevation": 27.0
+    },
+    "weather_data": {
+      "temperature_2m": 30.700000762939453,
+      "relative_humidity_2m": 62.0,
+      "weather_code": 3,
+      "wind_speed_10m": 7.289444923400879,
+      "wind_direction_10m": 147.09475708007812,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.245447"
+    }
+  },
+  {
+    "name": "Nabire",
+    "lat": -3.35989,
+    "lon": 135.50073,
+    "coordinates": {
+      "latitude": -3.375,
+      "longitude": 135.5,
+      "elevation": 6.0
+    },
+    "weather_data": {
+      "temperature_2m": 31.149999618530273,
+      "relative_humidity_2m": 60.0,
+      "weather_code": 3,
+      "wind_speed_10m": 4.896529197692871,
+      "wind_direction_10m": 252.89718627929688,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.245447"
+    }
+  },
+  {
+    "name": "Sorong",
+    "lat": -0.87956,
+    "lon": 131.26105,
+    "coordinates": {
+      "latitude": -0.875,
+      "longitude": 131.25,
+      "elevation": 7.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.600000381469727,
+      "relative_humidity_2m": 79.0,
+      "weather_code": 3,
+      "wind_speed_10m": 19.4699764251709,
+      "wind_direction_10m": 183.1797637939453,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.245447"
+    }
+  },
+  {
+    "name": "Luwuk",
+    "lat": -0.9516,
+    "lon": 122.7875,
+    "coordinates": {
+      "latitude": -0.875,
+      "longitude": 122.875,
+      "elevation": 18.0
+    },
+    "weather_data": {
+      "temperature_2m": 24.200000762939453,
+      "relative_humidity_2m": 79.0,
+      "weather_code": 3,
+      "wind_speed_10m": 11.252518653869629,
+      "wind_direction_10m": 172.64772033691406,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.245447"
+    }
+  },
+  {
+    "name": "Banggai",
+    "lat": -1.5887,
+    "lon": 123.4992,
+    "coordinates": {
+      "latitude": -1.625,
+      "longitude": 123.5,
+      "elevation": 2.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.899999618530273,
+      "relative_humidity_2m": 76.0,
+      "weather_code": 80,
+      "wind_speed_10m": 17.639999389648438,
+      "wind_direction_10m": 180.0,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.245447"
+    }
+  },
+  {
+    "name": "Laiwui",
+    "lat": -1.35177,
+    "lon": 127.66929,
+    "coordinates": {
+      "latitude": -1.5,
+      "longitude": 127.5,
+      "elevation": 16.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.450000762939453,
+      "relative_humidity_2m": 77.0,
+      "weather_code": 3,
+      "wind_speed_10m": 8.647496223449707,
+      "wind_direction_10m": 182.38589477539062,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.245447"
+    }
+  },
+  {
+    "name": "Matindok",
+    "lat": -1.35,
+    "lon": 122.46667,
+    "coordinates": {
+      "latitude": -1.375,
+      "longitude": 122.5,
+      "elevation": 4.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.149999618530273,
+      "relative_humidity_2m": 83.0,
+      "weather_code": 80,
+      "wind_speed_10m": 9.6932954788208,
+      "wind_direction_10m": 195.06854248046875,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.245447"
+    }
+  },
+  {
+    "name": "Dongin",
+    "lat": -1.54556,
+    "lon": 122.26028,
+    "coordinates": {
+      "latitude": -1.5,
+      "longitude": 122.25,
+      "elevation": 3.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.299999237060547,
+      "relative_humidity_2m": 86.0,
+      "weather_code": 3,
+      "wind_speed_10m": 7.2448601722717285,
+      "wind_direction_10m": 153.4350128173828,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.245447"
+    }
+  },
+  {
+    "name": "Balikpapan",
+    "lat": -1.26753,
+    "lon": 116.82887,
+    "coordinates": {
+      "latitude": -1.25,
+      "longitude": 116.75,
+      "elevation": 83.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.600000381469727,
+      "relative_humidity_2m": 78.0,
+      "weather_code": 3,
+      "wind_speed_10m": 9.255571365356445,
+      "wind_direction_10m": 193.49574279785156,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.245447"
+    }
+  },
+  {
+    "name": "Ternate",
+    "lat": 0.79065,
+    "lon": 127.38424,
+    "coordinates": {
+      "latitude": 0.625,
+      "longitude": 127.375,
+      "elevation": 22.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.899999618530273,
+      "relative_humidity_2m": 79.0,
+      "weather_code": 3,
+      "wind_speed_10m": 12.605141639709473,
+      "wind_direction_10m": 178.36346435546875,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.246458"
+    }
+  },
+  {
+    "name": "Bitung",
+    "lat": 1.44059,
+    "lon": 125.12824,
+    "coordinates": {
+      "latitude": 1.625,
+      "longitude": 125.125,
+      "elevation": 14.0
+    },
+    "weather_data": {
+      "temperature_2m": 30.049999237060547,
+      "relative_humidity_2m": 67.0,
+      "weather_code": 3,
+      "wind_speed_10m": 2.099142551422119,
+      "wind_direction_10m": 120.96369171142578,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.246458"
+    }
+  },
+  {
+    "name": "Toli-Toli",
+    "lat": 1.04018,
+    "lon": 120.81764,
+    "coordinates": {
+      "latitude": 0.875,
+      "longitude": 120.75,
+      "elevation": 5.0
+    },
+    "weather_data": {
+      "temperature_2m": 31.549999237060547,
+      "relative_humidity_2m": 65.0,
+      "weather_code": 2,
+      "wind_speed_10m": 5.692099094390869,
+      "wind_direction_10m": 214.69522094726562,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.246458"
+    }
+  },
+  {
+    "name": "Buol",
+    "lat": 1.15631,
+    "lon": 121.43805,
+    "coordinates": {
+      "latitude": 1.0,
+      "longitude": 121.5,
+      "elevation": 5.0
+    },
+    "weather_data": {
+      "temperature_2m": 31.600000381469727,
+      "relative_humidity_2m": 64.0,
+      "weather_code": 3,
+      "wind_speed_10m": 7.594208240509033,
+      "wind_direction_10m": 148.5704803466797,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.246458"
+    }
+  },
+  {
+    "name": "Parigi",
+    "lat": -7.7015,
+    "lon": 108.496,
+    "coordinates": {
+      "latitude": -7.75,
+      "longitude": 108.5,
+      "elevation": 12.0
+    },
+    "weather_data": {
+      "temperature_2m": 24.450000762939453,
+      "relative_humidity_2m": 86.0,
+      "weather_code": 80,
+      "wind_speed_10m": 10.703569412231445,
+      "wind_direction_10m": 132.27362060546875,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.246458"
+    }
+  },
+  {
+    "name": "Donggala",
+    "lat": -0.6723,
+    "lon": 119.7402,
+    "coordinates": {
+      "latitude": -0.625,
+      "longitude": 119.875,
+      "elevation": 12.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.649999618530273,
+      "relative_humidity_2m": 78.0,
+      "weather_code": 3,
+      "wind_speed_10m": 0.5091168880462646,
+      "wind_direction_10m": 315.0000915527344,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.246963"
+    }
+  },
+  {
+    "name": "Morowali",
+    "lat": -1.86667,
+    "lon": 121.5,
+    "coordinates": {
+      "latitude": -2.0,
+      "longitude": 121.375,
+      "elevation": 22.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.799999237060547,
+      "relative_humidity_2m": 83.0,
+      "weather_code": 3,
+      "wind_speed_10m": 4.33497428894043,
+      "wind_direction_10m": 94.76355743408203,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.246963"
+    }
+  },
+  {
+    "name": "Fakfak",
+    "lat": -2.92481,
+    "lon": 132.29813,
+    "coordinates": {
+      "latitude": -2.75,
+      "longitude": 132.125,
+      "elevation": 62.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.600000381469727,
+      "relative_humidity_2m": 84.0,
+      "weather_code": 3,
+      "wind_speed_10m": 19.469974517822266,
+      "wind_direction_10m": 199.44012451171875,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.246963"
+    }
+  },
+  {
+    "name": "Kaimana",
+    "lat": -3.6635,
+    "lon": 133.7649,
+    "coordinates": {
+      "latitude": -3.625,
+      "longitude": 133.75,
+      "elevation": 2.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.350000381469727,
+      "relative_humidity_2m": 88.0,
+      "weather_code": 80,
+      "wind_speed_10m": 10.028438568115234,
+      "wind_direction_10m": 158.96241760253906,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.246963"
+    }
+  },
+  {
+    "name": "Bekasi",
+    "lat": -6.2349,
+    "lon": 106.9896,
+    "coordinates": {
+      "latitude": -6.25,
+      "longitude": 107.0,
+      "elevation": 19.0
+    },
+    "weather_data": {
+      "temperature_2m": 30.350000381469727,
+      "relative_humidity_2m": 57.0,
+      "weather_code": 3,
+      "wind_speed_10m": 2.879999876022339,
+      "wind_direction_10m": 180.0,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.246963"
+    }
+  },
+  {
+    "name": "Bogor",
+    "lat": -6.59444,
+    "lon": 106.78917,
+    "coordinates": {
+      "latitude": -6.5,
+      "longitude": 106.625,
+      "elevation": 247.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.549999237060547,
+      "relative_humidity_2m": 59.0,
+      "weather_code": 1,
+      "wind_speed_10m": 2.3051247596740723,
+      "wind_direction_10m": 321.3401794433594,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.246963"
+    }
+  },
+  {
+    "name": "Cimahi",
+    "lat": -6.87222,
+    "lon": 107.5425,
+    "coordinates": {
+      "latitude": -6.875,
+      "longitude": 107.5,
+      "elevation": 767.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.200000762939453,
+      "relative_humidity_2m": 67.0,
+      "weather_code": 1,
+      "wind_speed_10m": 1.4843180179595947,
+      "wind_direction_10m": 75.96372985839844,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.246963"
+    }
+  },
+  {
+    "name": "Depok",
+    "lat": -6.4,
+    "lon": 106.81861,
+    "coordinates": {
+      "latitude": -6.375,
+      "longitude": 106.875,
+      "elevation": 90.0
+    },
+    "weather_data": {
+      "temperature_2m": 29.600000381469727,
+      "relative_humidity_2m": 59.0,
+      "weather_code": 3,
+      "wind_speed_10m": 4.735060214996338,
+      "wind_direction_10m": 188.74607849121094,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.246963"
+    }
+  },
+  {
+    "name": "Tasikmalaya",
+    "lat": -7.3274,
+    "lon": 108.2207,
+    "coordinates": {
+      "latitude": -7.375,
+      "longitude": 108.25,
+      "elevation": 355.0
+    },
+    "weather_data": {
+      "temperature_2m": 21.700000762939453,
+      "relative_humidity_2m": 91.0,
+      "weather_code": 80,
+      "wind_speed_10m": 4.6938252449035645,
+      "wind_direction_10m": 175.60137939453125,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.246963"
+    }
+  },
+  {
+    "name": "Banjar",
+    "lat": -7.1955,
+    "lon": 107.4313,
+    "coordinates": {
+      "latitude": -7.125,
+      "longitude": 107.375,
+      "elevation": 1902.0
+    },
+    "weather_data": {
+      "temperature_2m": 17.649999618530273,
+      "relative_humidity_2m": 79.0,
+      "weather_code": 3,
+      "wind_speed_10m": 6.924737930297852,
+      "wind_direction_10m": 188.97254943847656,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.246963"
+    }
+  },
+  {
+    "name": "Soreang",
+    "lat": -7.03306,
+    "lon": 107.51833,
+    "coordinates": {
+      "latitude": -7.0,
+      "longitude": 107.5,
+      "elevation": 743.0
+    },
+    "weather_data": {
+      "temperature_2m": 24.5,
+      "relative_humidity_2m": 71.0,
+      "weather_code": 1,
+      "wind_speed_10m": 3.617955207824707,
+      "wind_direction_10m": 354.28948974609375,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.246963"
+    }
+  },
+  {
+    "name": "Ngamprah",
+    "lat": -6.80361,
+    "lon": 107.27528,
+    "coordinates": {
+      "latitude": -6.75,
+      "longitude": 107.25,
+      "elevation": 272.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.149999618530273,
+      "relative_humidity_2m": 59.0,
+      "weather_code": 1,
+      "wind_speed_10m": 4.320000171661377,
+      "wind_direction_10m": 180.0,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.247968"
+    }
+  },
+  {
+    "name": "Cibinong",
+    "lat": -6.48167,
+    "lon": 106.85417,
+    "coordinates": {
+      "latitude": -6.5,
+      "longitude": 106.875,
+      "elevation": 134.0
+    },
+    "weather_data": {
+      "temperature_2m": 30.049999237060547,
+      "relative_humidity_2m": 59.0,
+      "weather_code": 3,
+      "wind_speed_10m": 6.119999885559082,
+      "wind_direction_10m": 180.0,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.247968"
+    }
+  },
+  {
+    "name": "Ciamis",
+    "lat": -7.3257,
+    "lon": 108.3534,
+    "coordinates": {
+      "latitude": -7.25,
+      "longitude": 108.5,
+      "elevation": 205.0
+    },
+    "weather_data": {
+      "temperature_2m": 22.149999618530273,
+      "relative_humidity_2m": 91.0,
+      "weather_code": 80,
+      "wind_speed_10m": 5.937272071838379,
+      "wind_direction_10m": 165.96372985839844,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.247968"
+    }
+  },
+  {
+    "name": "Cianjur",
+    "lat": -6.82222,
+    "lon": 107.13944,
+    "coordinates": {
+      "latitude": -6.75,
+      "longitude": 107.125,
+      "elevation": 456.0
+    },
+    "weather_data": {
+      "temperature_2m": 21.399999618530273,
+      "relative_humidity_2m": 76.0,
+      "weather_code": 2,
+      "wind_speed_10m": 5.039999961853027,
+      "wind_direction_10m": 180.0,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.247968"
+    }
+  },
+  {
+    "name": "Sumber",
+    "lat": -6.76028,
+    "lon": 108.48306,
+    "coordinates": {
+      "latitude": -6.625,
+      "longitude": 108.5,
+      "elevation": 71.0
+    },
+    "weather_data": {
+      "temperature_2m": 31.5,
+      "relative_humidity_2m": 53.0,
+      "weather_code": 1,
+      "wind_speed_10m": 13.891522407531738,
+      "wind_direction_10m": 148.7816619873047,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.247968"
+    }
+  },
+  {
+    "name": "Karawang",
+    "lat": -6.30525,
+    "lon": 107.3197,
+    "coordinates": {
+      "latitude": -6.25,
+      "longitude": 107.375,
+      "elevation": 16.0
+    },
+    "weather_data": {
+      "temperature_2m": 30.299999237060547,
+      "relative_humidity_2m": 59.0,
+      "weather_code": 3,
+      "wind_speed_10m": 1.2979984283447266,
+      "wind_direction_10m": 123.69009399414062,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.247968"
+    }
+  },
+  {
+    "name": "Kuningan",
+    "lat": -6.97583,
+    "lon": 108.48306,
+    "coordinates": {
+      "latitude": -7.0,
+      "longitude": 108.5,
+      "elevation": 540.0
+    },
+    "weather_data": {
+      "temperature_2m": 23.25,
+      "relative_humidity_2m": 77.0,
+      "weather_code": 2,
+      "wind_speed_10m": 16.119800567626953,
+      "wind_direction_10m": 156.29734802246094,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.247968"
+    }
+  },
+  {
+    "name": "Majalengka",
+    "lat": -6.83611,
+    "lon": 108.22778,
+    "coordinates": {
+      "latitude": -6.875,
+      "longitude": 108.25,
+      "elevation": 127.0
+    },
+    "weather_data": {
+      "temperature_2m": 30.100000381469727,
+      "relative_humidity_2m": 57.0,
+      "weather_code": 2,
+      "wind_speed_10m": 21.542922973632812,
+      "wind_direction_10m": 170.38034057617188,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.247968"
+    }
+  },
+  {
+    "name": "Subang",
+    "lat": -6.57,
+    "lon": 107.75667,
+    "coordinates": {
+      "latitude": -6.5,
+      "longitude": 107.75,
+      "elevation": 91.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.649999618530273,
+      "relative_humidity_2m": 67.0,
+      "weather_code": 1,
+      "wind_speed_10m": 4.843304634094238,
+      "wind_direction_10m": 318.01287841796875,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.247968"
+    }
+  },
+  {
+    "name": "Palabuhanratu",
+    "lat": -6.9875,
+    "lon": 106.55139,
+    "coordinates": {
+      "latitude": -6.875,
+      "longitude": 106.375,
+      "elevation": 16.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.350000381469727,
+      "relative_humidity_2m": 68.0,
+      "weather_code": 2,
+      "wind_speed_10m": 15.815435409545898,
+      "wind_direction_10m": 138.6914825439453,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.247968"
+    }
+  },
+  {
+    "name": "Sumedang",
+    "lat": -6.85861,
+    "lon": 107.91639,
+    "coordinates": {
+      "latitude": -6.875,
+      "longitude": 108.0,
+      "elevation": 477.0
+    },
+    "weather_data": {
+      "temperature_2m": 23.649999618530273,
+      "relative_humidity_2m": 67.0,
+      "weather_code": 2,
+      "wind_speed_10m": 10.086426734924316,
+      "wind_direction_10m": 145.17544555664062,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.247968"
+    }
+  },
+  {
+    "name": "Singaparna",
+    "lat": -7.3515,
+    "lon": 108.111,
+    "coordinates": {
+      "latitude": -7.375,
+      "longitude": 108.125,
+      "elevation": 430.0
+    },
+    "weather_data": {
+      "temperature_2m": 20.299999237060547,
+      "relative_humidity_2m": 93.0,
+      "weather_code": 3,
+      "wind_speed_10m": 5.623379707336426,
+      "wind_direction_10m": 129.80552673339844,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.247968"
+    }
+  },
+  {
+    "name": "Klamono",
+    "lat": -1.13333,
+    "lon": 131.5,
+    "coordinates": {
+      "latitude": -1.25,
+      "longitude": 131.375,
+      "elevation": 12.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.950000762939453,
+      "relative_humidity_2m": 85.0,
+      "weather_code": 3,
+      "wind_speed_10m": 10.805998802185059,
+      "wind_direction_10m": 178.0908966064453,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.247968"
+    }
+  },
+  {
+    "name": "Sailolof",
+    "lat": -1.25346,
+    "lon": 130.77417,
+    "coordinates": {
+      "latitude": -1.125,
+      "longitude": 130.75,
+      "elevation": 16.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.350000381469727,
+      "relative_humidity_2m": 77.0,
+      "weather_code": 3,
+      "wind_speed_10m": 12.261157989501953,
+      "wind_direction_10m": 176.63360595703125,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.248976"
+    }
+  },
+  {
+    "name": "Kasim",
+    "lat": -1.3,
+    "lon": 131.01666,
+    "coordinates": {
+      "latitude": -1.25,
+      "longitude": 131.0,
+      "elevation": 14.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.899999618530273,
+      "relative_humidity_2m": 83.0,
+      "weather_code": 3,
+      "wind_speed_10m": 9.746630668640137,
+      "wind_direction_10m": 184.23631286621094,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.248976"
+    }
+  },
+  {
+    "name": "Toili",
+    "lat": -1.37451,
+    "lon": 122.33928,
+    "coordinates": {
+      "latitude": -1.375,
+      "longitude": 122.375,
+      "elevation": 69.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.399999618530273,
+      "relative_humidity_2m": 79.0,
+      "weather_code": 3,
+      "wind_speed_10m": 7.172948837280273,
+      "wind_direction_10m": 162.47433471679688,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.248976"
+    }
+  },
+  {
+    "name": "Batui",
+    "lat": -1.27861,
+    "lon": 122.5575,
+    "coordinates": {
+      "latitude": -1.375,
+      "longitude": 122.375,
+      "elevation": 5.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.799999237060547,
+      "relative_humidity_2m": 79.0,
+      "weather_code": 3,
+      "wind_speed_10m": 7.172948837280273,
+      "wind_direction_10m": 162.47433471679688,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.248976"
+    }
+  },
+  {
+    "name": "Teluk Bintuni",
+    "lat": -2.1097,
+    "lon": 133.5246,
+    "coordinates": {
+      "latitude": -2.125,
+      "longitude": 133.5,
+      "elevation": 10.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.0,
+      "relative_humidity_2m": 78.0,
+      "weather_code": 3,
+      "wind_speed_10m": 11.440978050231934,
+      "wind_direction_10m": 257.275634765625,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.248976"
+    }
+  },
+  {
+    "name": "Jayawijaya",
+    "lat": -4.0958,
+    "lon": 138.9481,
+    "coordinates": {
+      "latitude": -4.0,
+      "longitude": 138.875,
+      "elevation": 1656.0
+    },
+    "weather_data": {
+      "temperature_2m": 16.600000381469727,
+      "relative_humidity_2m": 77.0,
+      "weather_code": 3,
+      "wind_speed_10m": 9.0,
+      "wind_direction_10m": 36.869991302490234,
+      "timestamp": 1756349100,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-28T09:53:36.248976"
+    }
+  }
+]

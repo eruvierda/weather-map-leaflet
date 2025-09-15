@@ -1,0 +1,2018 @@
+[
+  {
+    "name": "-11.0, 95.0",
+    "lat": -11.0,
+    "lon": 95.0,
+    "coordinates": {
+      "latitude": -11.0,
+      "longitude": 95.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.549999237060547,
+      "relative_humidity_2m": 77.0,
+      "weather_code": 1,
+      "wind_speed_10m": 16.299694061279297,
+      "wind_direction_10m": 43.210113525390625,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.007428"
+    }
+  },
+  {
+    "name": "-11.0, 98.0",
+    "lat": -11.0,
+    "lon": 98.0,
+    "coordinates": {
+      "latitude": -11.0,
+      "longitude": 98.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.200000762939453,
+      "relative_humidity_2m": 79.0,
+      "weather_code": 2,
+      "wind_speed_10m": 23.54080581665039,
+      "wind_direction_10m": 66.57129669189453,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.007428"
+    }
+  },
+  {
+    "name": "-11.0, 101.0",
+    "lat": -11.0,
+    "lon": 101.0,
+    "coordinates": {
+      "latitude": -11.0,
+      "longitude": 101.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.600000381469727,
+      "relative_humidity_2m": 77.0,
+      "weather_code": 2,
+      "wind_speed_10m": 21.252199172973633,
+      "wind_direction_10m": 88.05855560302734,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.007428"
+    }
+  },
+  {
+    "name": "-11.0, 104.0",
+    "lat": -11.0,
+    "lon": 104.0,
+    "coordinates": {
+      "latitude": -11.0,
+      "longitude": 104.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.299999237060547,
+      "relative_humidity_2m": 73.0,
+      "weather_code": 2,
+      "wind_speed_10m": 14.372974395751953,
+      "wind_direction_10m": 112.06795501708984,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.007428"
+    }
+  },
+  {
+    "name": "-11.0, 107.0",
+    "lat": -11.0,
+    "lon": 107.0,
+    "coordinates": {
+      "latitude": -11.0,
+      "longitude": 107.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.600000381469727,
+      "relative_humidity_2m": 79.0,
+      "weather_code": 3,
+      "wind_speed_10m": 9.422101020812988,
+      "wind_direction_10m": 96.58185577392578,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.007428"
+    }
+  },
+  {
+    "name": "-11.0, 110.0",
+    "lat": -11.0,
+    "lon": 110.0,
+    "coordinates": {
+      "latitude": -11.0,
+      "longitude": 110.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.700000762939453,
+      "relative_humidity_2m": 78.0,
+      "weather_code": 3,
+      "wind_speed_10m": 15.391839981079102,
+      "wind_direction_10m": 79.21575164794922,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.008421"
+    }
+  },
+  {
+    "name": "-11.0, 113.0",
+    "lat": -11.0,
+    "lon": 113.0,
+    "coordinates": {
+      "latitude": -11.0,
+      "longitude": 113.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.049999237060547,
+      "relative_humidity_2m": 73.0,
+      "weather_code": 2,
+      "wind_speed_10m": 12.239999771118164,
+      "wind_direction_10m": 90.0,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.008421"
+    }
+  },
+  {
+    "name": "-11.0, 116.0",
+    "lat": -11.0,
+    "lon": 116.0,
+    "coordinates": {
+      "latitude": -11.0,
+      "longitude": 116.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.649999618530273,
+      "relative_humidity_2m": 76.0,
+      "weather_code": 1,
+      "wind_speed_10m": 21.602998733520508,
+      "wind_direction_10m": 89.04518127441406,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.008421"
+    }
+  },
+  {
+    "name": "-11.0, 119.0",
+    "lat": -11.0,
+    "lon": 119.0,
+    "coordinates": {
+      "latitude": -11.0,
+      "longitude": 119.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.399999618530273,
+      "relative_humidity_2m": 72.0,
+      "weather_code": 1,
+      "wind_speed_10m": 24.850431442260742,
+      "wind_direction_10m": 91.66024780273438,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.008421"
+    }
+  },
+  {
+    "name": "-11.0, 122.0",
+    "lat": -11.0,
+    "lon": 122.0,
+    "coordinates": {
+      "latitude": -11.0,
+      "longitude": 122.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.399999618530273,
+      "relative_humidity_2m": 72.0,
+      "weather_code": 1,
+      "wind_speed_10m": 25.241107940673828,
+      "wind_direction_10m": 86.72957611083984,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.008421"
+    }
+  },
+  {
+    "name": "-11.0, 125.0",
+    "lat": -11.0,
+    "lon": 125.0,
+    "coordinates": {
+      "latitude": -11.0,
+      "longitude": 125.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.149999618530273,
+      "relative_humidity_2m": 64.0,
+      "weather_code": 1,
+      "wind_speed_10m": 24.6934814453125,
+      "wind_direction_10m": 82.46064758300781,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.008421"
+    }
+  },
+  {
+    "name": "-11.0, 128.0",
+    "lat": -11.0,
+    "lon": 128.0,
+    "coordinates": {
+      "latitude": -11.0,
+      "longitude": 128.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.850000381469727,
+      "relative_humidity_2m": 61.0,
+      "weather_code": 2,
+      "wind_speed_10m": 21.749481201171875,
+      "wind_direction_10m": 114.4439468383789,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.008421"
+    }
+  },
+  {
+    "name": "-11.0, 131.0",
+    "lat": -11.0,
+    "lon": 131.0,
+    "coordinates": {
+      "latitude": -11.0,
+      "longitude": 131.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.350000381469727,
+      "relative_humidity_2m": 60.0,
+      "weather_code": 1,
+      "wind_speed_10m": 23.828083038330078,
+      "wind_direction_10m": 116.95210266113281,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.008421"
+    }
+  },
+  {
+    "name": "-11.0, 134.0",
+    "lat": -11.0,
+    "lon": 134.0,
+    "coordinates": {
+      "latitude": -11.0,
+      "longitude": 134.0,
+      "elevation": 23.0
+    },
+    "weather_data": {
+      "temperature_2m": 23.450000762939453,
+      "relative_humidity_2m": 70.0,
+      "weather_code": 1,
+      "wind_speed_10m": 34.247337341308594,
+      "wind_direction_10m": 129.88262939453125,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.008421"
+    }
+  },
+  {
+    "name": "-11.0, 137.0",
+    "lat": -11.0,
+    "lon": 137.0,
+    "coordinates": {
+      "latitude": -11.0,
+      "longitude": 137.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.200000762939453,
+      "relative_humidity_2m": 74.0,
+      "weather_code": 3,
+      "wind_speed_10m": 35.16225051879883,
+      "wind_direction_10m": 137.48959350585938,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.008421"
+    }
+  },
+  {
+    "name": "-11.0, 140.0",
+    "lat": -11.0,
+    "lon": 140.0,
+    "coordinates": {
+      "latitude": -11.0,
+      "longitude": 140.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.600000381469727,
+      "relative_humidity_2m": 75.0,
+      "weather_code": 3,
+      "wind_speed_10m": 31.5816650390625,
+      "wind_direction_10m": 136.84759521484375,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.008421"
+    }
+  },
+  {
+    "name": "-8.0, 95.0",
+    "lat": -8.0,
+    "lon": 95.0,
+    "coordinates": {
+      "latitude": -8.0,
+      "longitude": 95.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.350000381469727,
+      "relative_humidity_2m": 82.0,
+      "weather_code": 3,
+      "wind_speed_10m": 13.3637113571167,
+      "wind_direction_10m": 62.744754791259766,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.008421"
+    }
+  },
+  {
+    "name": "-8.0, 98.0",
+    "lat": -8.0,
+    "lon": 98.0,
+    "coordinates": {
+      "latitude": -8.0,
+      "longitude": 98.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.049999237060547,
+      "relative_humidity_2m": 84.0,
+      "weather_code": 95,
+      "wind_speed_10m": 16.119800567626953,
+      "wind_direction_10m": 60.57264709472656,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.008421"
+    }
+  },
+  {
+    "name": "-8.0, 101.0",
+    "lat": -8.0,
+    "lon": 101.0,
+    "coordinates": {
+      "latitude": -8.0,
+      "longitude": 101.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.25,
+      "relative_humidity_2m": 80.0,
+      "weather_code": 95,
+      "wind_speed_10m": 19.079999923706055,
+      "wind_direction_10m": 121.89075469970703,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.009421"
+    }
+  },
+  {
+    "name": "-8.0, 104.0",
+    "lat": -8.0,
+    "lon": 104.0,
+    "coordinates": {
+      "latitude": -8.0,
+      "longitude": 104.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.399999618530273,
+      "relative_humidity_2m": 86.0,
+      "weather_code": 80,
+      "wind_speed_10m": 15.13713264465332,
+      "wind_direction_10m": 115.34613800048828,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.009421"
+    }
+  },
+  {
+    "name": "-8.0, 107.0",
+    "lat": -8.0,
+    "lon": 107.0,
+    "coordinates": {
+      "latitude": -8.0,
+      "longitude": 107.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.850000381469727,
+      "relative_humidity_2m": 82.0,
+      "weather_code": 3,
+      "wind_speed_10m": 14.205182075500488,
+      "wind_direction_10m": 98.74607849121094,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.009421"
+    }
+  },
+  {
+    "name": "-8.0, 110.0",
+    "lat": -8.0,
+    "lon": 110.0,
+    "coordinates": {
+      "latitude": -7.875,
+      "longitude": 110.125,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.200000762939453,
+      "relative_humidity_2m": 80.0,
+      "weather_code": 2,
+      "wind_speed_10m": 3.0758414268493652,
+      "wind_direction_10m": 290.5561218261719,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.009421"
+    }
+  },
+  {
+    "name": "-8.0, 113.0",
+    "lat": -8.0,
+    "lon": 113.0,
+    "coordinates": {
+      "latitude": -7.875,
+      "longitude": 113.125,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 22.649999618530273,
+      "relative_humidity_2m": 87.0,
+      "weather_code": 3,
+      "wind_speed_10m": 6.479999542236328,
+      "wind_direction_10m": 360.0,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.009421"
+    }
+  },
+  {
+    "name": "-8.0, 116.0",
+    "lat": -8.0,
+    "lon": 116.0,
+    "coordinates": {
+      "latitude": -8.0,
+      "longitude": 116.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.950000762939453,
+      "relative_humidity_2m": 80.0,
+      "weather_code": 2,
+      "wind_speed_10m": 9.726663589477539,
+      "wind_direction_10m": 141.00900268554688,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.009421"
+    }
+  },
+  {
+    "name": "-8.0, 119.0",
+    "lat": -8.0,
+    "lon": 119.0,
+    "coordinates": {
+      "latitude": -8.125,
+      "longitude": 119.125,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.5,
+      "relative_humidity_2m": 78.0,
+      "weather_code": 3,
+      "wind_speed_10m": 9.779816627502441,
+      "wind_direction_10m": 96.34009552001953,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.009421"
+    }
+  },
+  {
+    "name": "-8.0, 122.0",
+    "lat": -8.0,
+    "lon": 122.0,
+    "coordinates": {
+      "latitude": -8.0,
+      "longitude": 122.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.950000762939453,
+      "relative_humidity_2m": 76.0,
+      "weather_code": 3,
+      "wind_speed_10m": 13.684735298156738,
+      "wind_direction_10m": 125.362548828125,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.009421"
+    }
+  },
+  {
+    "name": "-8.0, 125.0",
+    "lat": -8.0,
+    "lon": 125.0,
+    "coordinates": {
+      "latitude": -8.0,
+      "longitude": 125.0,
+      "elevation": 156.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.450000762939453,
+      "relative_humidity_2m": 70.0,
+      "weather_code": 0,
+      "wind_speed_10m": 18.847640991210938,
+      "wind_direction_10m": 61.47698974609375,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.009421"
+    }
+  },
+  {
+    "name": "-8.0, 128.0",
+    "lat": -8.0,
+    "lon": 128.0,
+    "coordinates": {
+      "latitude": -8.0,
+      "longitude": 128.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.649999618530273,
+      "relative_humidity_2m": 69.0,
+      "weather_code": 1,
+      "wind_speed_10m": 21.758419036865234,
+      "wind_direction_10m": 128.95591735839844,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.009421"
+    }
+  },
+  {
+    "name": "-8.0, 131.0",
+    "lat": -8.0,
+    "lon": 131.0,
+    "coordinates": {
+      "latitude": -8.125,
+      "longitude": 131.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.950000762939453,
+      "relative_humidity_2m": 69.0,
+      "weather_code": 2,
+      "wind_speed_10m": 23.113008499145508,
+      "wind_direction_10m": 127.40543365478516,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.010420"
+    }
+  },
+  {
+    "name": "-8.0, 134.0",
+    "lat": -8.0,
+    "lon": 134.0,
+    "coordinates": {
+      "latitude": -8.0,
+      "longitude": 134.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.899999618530273,
+      "relative_humidity_2m": 76.0,
+      "weather_code": 2,
+      "wind_speed_10m": 35.712650299072266,
+      "wind_direction_10m": 127.21652221679688,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.010420"
+    }
+  },
+  {
+    "name": "-8.0, 137.0",
+    "lat": -8.0,
+    "lon": 137.0,
+    "coordinates": {
+      "latitude": -8.0,
+      "longitude": 137.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.299999237060547,
+      "relative_humidity_2m": 76.0,
+      "weather_code": 2,
+      "wind_speed_10m": 34.114627838134766,
+      "wind_direction_10m": 135.85501098632812,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.010420"
+    }
+  },
+  {
+    "name": "-8.0, 140.0",
+    "lat": -8.0,
+    "lon": 140.0,
+    "coordinates": {
+      "latitude": -8.0,
+      "longitude": 140.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.200000762939453,
+      "relative_humidity_2m": 71.0,
+      "weather_code": 3,
+      "wind_speed_10m": 15.124283790588379,
+      "wind_direction_10m": 128.23387145996094,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.010420"
+    }
+  },
+  {
+    "name": "-5.0, 95.0",
+    "lat": -5.0,
+    "lon": 95.0,
+    "coordinates": {
+      "latitude": -5.0,
+      "longitude": 95.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.950000762939453,
+      "relative_humidity_2m": 79.0,
+      "weather_code": 2,
+      "wind_speed_10m": 5.154415607452393,
+      "wind_direction_10m": 347.9052734375,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.010420"
+    }
+  },
+  {
+    "name": "-5.0, 98.0",
+    "lat": -5.0,
+    "lon": 98.0,
+    "coordinates": {
+      "latitude": -5.0,
+      "longitude": 98.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.899999618530273,
+      "relative_humidity_2m": 79.0,
+      "weather_code": 3,
+      "wind_speed_10m": 11.384198188781738,
+      "wind_direction_10m": 34.695220947265625,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.010420"
+    }
+  },
+  {
+    "name": "-5.0, 101.0",
+    "lat": -5.0,
+    "lon": 101.0,
+    "coordinates": {
+      "latitude": -5.0,
+      "longitude": 101.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.350000381469727,
+      "relative_humidity_2m": 76.0,
+      "weather_code": 2,
+      "wind_speed_10m": 11.18320083618164,
+      "wind_direction_10m": 123.17852783203125,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.010420"
+    }
+  },
+  {
+    "name": "-5.0, 104.0",
+    "lat": -5.0,
+    "lon": 104.0,
+    "coordinates": {
+      "latitude": -5.125,
+      "longitude": 104.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 29.049999237060547,
+      "relative_humidity_2m": 74.0,
+      "weather_code": 3,
+      "wind_speed_10m": 7.491114139556885,
+      "wind_direction_10m": 125.21768188476562,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.010420"
+    }
+  },
+  {
+    "name": "-5.0, 107.0",
+    "lat": -5.0,
+    "lon": 107.0,
+    "coordinates": {
+      "latitude": -5.0,
+      "longitude": 107.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.5,
+      "relative_humidity_2m": 80.0,
+      "weather_code": 80,
+      "wind_speed_10m": 13.217443466186523,
+      "wind_direction_10m": 150.64234924316406,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.010420"
+    }
+  },
+  {
+    "name": "-5.0, 110.0",
+    "lat": -5.0,
+    "lon": 110.0,
+    "coordinates": {
+      "latitude": -5.0,
+      "longitude": 110.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.700000762939453,
+      "relative_humidity_2m": 76.0,
+      "weather_code": 3,
+      "wind_speed_10m": 9.793059349060059,
+      "wind_direction_10m": 143.9725341796875,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.010420"
+    }
+  },
+  {
+    "name": "-5.0, 113.0",
+    "lat": -5.0,
+    "lon": 113.0,
+    "coordinates": {
+      "latitude": -5.0,
+      "longitude": 113.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.149999618530273,
+      "relative_humidity_2m": 82.0,
+      "weather_code": 3,
+      "wind_speed_10m": 10.464797973632812,
+      "wind_direction_10m": 176.0548858642578,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.010420"
+    }
+  },
+  {
+    "name": "-5.0, 116.0",
+    "lat": -5.0,
+    "lon": 116.0,
+    "coordinates": {
+      "latitude": -5.0,
+      "longitude": 116.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.950000762939453,
+      "relative_humidity_2m": 82.0,
+      "weather_code": 3,
+      "wind_speed_10m": 19.02217674255371,
+      "wind_direction_10m": 150.52420043945312,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.011420"
+    }
+  },
+  {
+    "name": "-5.0, 119.0",
+    "lat": -5.0,
+    "lon": 119.0,
+    "coordinates": {
+      "latitude": -5.0,
+      "longitude": 119.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.700000762939453,
+      "relative_humidity_2m": 78.0,
+      "weather_code": 1,
+      "wind_speed_10m": 2.1897945404052734,
+      "wind_direction_10m": 189.46224975585938,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.011420"
+    }
+  },
+  {
+    "name": "-5.0, 122.0",
+    "lat": -5.0,
+    "lon": 122.0,
+    "coordinates": {
+      "latitude": -4.875,
+      "longitude": 121.875,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.700000762939453,
+      "relative_humidity_2m": 65.0,
+      "weather_code": 1,
+      "wind_speed_10m": 20.83339500427246,
+      "wind_direction_10m": 99.9505615234375,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.011420"
+    }
+  },
+  {
+    "name": "-5.0, 125.0",
+    "lat": -5.0,
+    "lon": 125.0,
+    "coordinates": {
+      "latitude": -5.0,
+      "longitude": 125.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.600000381469727,
+      "relative_humidity_2m": 75.0,
+      "weather_code": 1,
+      "wind_speed_10m": 28.87639617919922,
+      "wind_direction_10m": 125.86991119384766,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.011420"
+    }
+  },
+  {
+    "name": "-5.0, 128.0",
+    "lat": -5.0,
+    "lon": 128.0,
+    "coordinates": {
+      "latitude": -5.0,
+      "longitude": 128.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.299999237060547,
+      "relative_humidity_2m": 79.0,
+      "weather_code": 1,
+      "wind_speed_10m": 29.2841796875,
+      "wind_direction_10m": 136.49427795410156,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.011420"
+    }
+  },
+  {
+    "name": "-5.0, 131.0",
+    "lat": -5.0,
+    "lon": 131.0,
+    "coordinates": {
+      "latitude": -5.0,
+      "longitude": 131.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.100000381469727,
+      "relative_humidity_2m": 83.0,
+      "weather_code": 2,
+      "wind_speed_10m": 32.647056579589844,
+      "wind_direction_10m": 138.57643127441406,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.011420"
+    }
+  },
+  {
+    "name": "-5.0, 134.0",
+    "lat": -5.0,
+    "lon": 134.0,
+    "coordinates": {
+      "latitude": -5.0,
+      "longitude": 134.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.950000762939453,
+      "relative_humidity_2m": 84.0,
+      "weather_code": 2,
+      "wind_speed_10m": 26.49365234375,
+      "wind_direction_10m": 132.79737854003906,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.011420"
+    }
+  },
+  {
+    "name": "-5.0, 137.0",
+    "lat": -5.0,
+    "lon": 137.0,
+    "coordinates": {
+      "latitude": -5.0,
+      "longitude": 137.125,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.700000762939453,
+      "relative_humidity_2m": 86.0,
+      "weather_code": 95,
+      "wind_speed_10m": 13.661038398742676,
+      "wind_direction_10m": 108.43504333496094,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.011420"
+    }
+  },
+  {
+    "name": "-5.0, 140.0",
+    "lat": -5.0,
+    "lon": 140.0,
+    "coordinates": {
+      "latitude": -5.125,
+      "longitude": 139.875,
+      "elevation": 25.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.799999237060547,
+      "relative_humidity_2m": 79.0,
+      "weather_code": 3,
+      "wind_speed_10m": 12.229406356811523,
+      "wind_direction_10m": 132.61402893066406,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.011420"
+    }
+  },
+  {
+    "name": "-2.0, 95.0",
+    "lat": -2.0,
+    "lon": 95.0,
+    "coordinates": {
+      "latitude": -2.0,
+      "longitude": 95.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.799999237060547,
+      "relative_humidity_2m": 70.0,
+      "weather_code": 2,
+      "wind_speed_10m": 6.0346999168396,
+      "wind_direction_10m": 342.6458740234375,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.011420"
+    }
+  },
+  {
+    "name": "-2.0, 98.0",
+    "lat": -2.0,
+    "lon": 98.0,
+    "coordinates": {
+      "latitude": -2.0,
+      "longitude": 98.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.950000762939453,
+      "relative_humidity_2m": 68.0,
+      "weather_code": 2,
+      "wind_speed_10m": 7.2894439697265625,
+      "wind_direction_10m": 20.224945068359375,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.011420"
+    }
+  },
+  {
+    "name": "-2.0, 101.0",
+    "lat": -2.0,
+    "lon": 101.0,
+    "coordinates": {
+      "latitude": -2.125,
+      "longitude": 100.875,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.0,
+      "relative_humidity_2m": 74.0,
+      "weather_code": 3,
+      "wind_speed_10m": 4.349896430969238,
+      "wind_direction_10m": 65.55606079101562,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.011420"
+    }
+  },
+  {
+    "name": "-2.0, 104.0",
+    "lat": -2.0,
+    "lon": 104.0,
+    "coordinates": {
+      "latitude": -2.0,
+      "longitude": 104.0,
+      "elevation": 10.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.399999618530273,
+      "relative_humidity_2m": 84.0,
+      "weather_code": 3,
+      "wind_speed_10m": 7.145795822143555,
+      "wind_direction_10m": 139.08570861816406,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.011420"
+    }
+  },
+  {
+    "name": "-2.0, 107.0",
+    "lat": -2.0,
+    "lon": 107.0,
+    "coordinates": {
+      "latitude": -2.0,
+      "longitude": 107.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.049999237060547,
+      "relative_humidity_2m": 76.0,
+      "weather_code": 80,
+      "wind_speed_10m": 13.584932327270508,
+      "wind_direction_10m": 147.99465942382812,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.012420"
+    }
+  },
+  {
+    "name": "-2.0, 110.0",
+    "lat": -2.0,
+    "lon": 110.0,
+    "coordinates": {
+      "latitude": -1.875,
+      "longitude": 110.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.850000381469727,
+      "relative_humidity_2m": 83.0,
+      "weather_code": 80,
+      "wind_speed_10m": 9.504273414611816,
+      "wind_direction_10m": 114.62355041503906,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.012420"
+    }
+  },
+  {
+    "name": "-2.0, 113.0",
+    "lat": -2.0,
+    "lon": 113.0,
+    "coordinates": {
+      "latitude": -2.0,
+      "longitude": 113.0,
+      "elevation": 4.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.700000762939453,
+      "relative_humidity_2m": 81.0,
+      "weather_code": 3,
+      "wind_speed_10m": 7.172948837280273,
+      "wind_direction_10m": 252.47433471679688,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.012420"
+    }
+  },
+  {
+    "name": "-2.0, 116.0",
+    "lat": -2.0,
+    "lon": 116.0,
+    "coordinates": {
+      "latitude": -2.0,
+      "longitude": 116.0,
+      "elevation": 18.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.600000381469727,
+      "relative_humidity_2m": 82.0,
+      "weather_code": 3,
+      "wind_speed_10m": 8.55710220336914,
+      "wind_direction_10m": 255.37908935546875,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.012420"
+    }
+  },
+  {
+    "name": "-2.0, 119.0",
+    "lat": -2.0,
+    "lon": 119.0,
+    "coordinates": {
+      "latitude": -2.0,
+      "longitude": 119.0,
+      "elevation": 1020.0
+    },
+    "weather_data": {
+      "temperature_2m": 20.350000381469727,
+      "relative_humidity_2m": 85.0,
+      "weather_code": 95,
+      "wind_speed_10m": 7.145795822143555,
+      "wind_direction_10m": 229.08570861816406,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.012420"
+    }
+  },
+  {
+    "name": "-2.0, 122.0",
+    "lat": -2.0,
+    "lon": 122.0,
+    "coordinates": {
+      "latitude": -2.0,
+      "longitude": 122.0,
+      "elevation": 668.0
+    },
+    "weather_data": {
+      "temperature_2m": 21.75,
+      "relative_humidity_2m": 84.0,
+      "weather_code": 80,
+      "wind_speed_10m": 9.6932954788208,
+      "wind_direction_10m": 105.06854248046875,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.012420"
+    }
+  },
+  {
+    "name": "-2.0, 125.0",
+    "lat": -2.0,
+    "lon": 125.0,
+    "coordinates": {
+      "latitude": -1.875,
+      "longitude": 125.125,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.299999237060547,
+      "relative_humidity_2m": 88.0,
+      "weather_code": 80,
+      "wind_speed_10m": 11.269782066345215,
+      "wind_direction_10m": 206.5649871826172,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.012420"
+    }
+  },
+  {
+    "name": "-2.0, 128.0",
+    "lat": -2.0,
+    "lon": 128.0,
+    "coordinates": {
+      "latitude": -2.0,
+      "longitude": 128.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.399999618530273,
+      "relative_humidity_2m": 77.0,
+      "weather_code": 2,
+      "wind_speed_10m": 13.138765335083008,
+      "wind_direction_10m": 189.46224975585938,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.012420"
+    }
+  },
+  {
+    "name": "-2.0, 131.0",
+    "lat": -2.0,
+    "lon": 131.0,
+    "coordinates": {
+      "latitude": -2.0,
+      "longitude": 131.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.100000381469727,
+      "relative_humidity_2m": 84.0,
+      "weather_code": 95,
+      "wind_speed_10m": 26.795223236083984,
+      "wind_direction_10m": 149.30035400390625,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.012420"
+    }
+  },
+  {
+    "name": "-2.0, 134.0",
+    "lat": -2.0,
+    "lon": 134.0,
+    "coordinates": {
+      "latitude": -1.875,
+      "longitude": 134.125,
+      "elevation": 166.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.549999237060547,
+      "relative_humidity_2m": 72.0,
+      "weather_code": 2,
+      "wind_speed_10m": 5.623379707336426,
+      "wind_direction_10m": 129.80552673339844,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.012420"
+    }
+  },
+  {
+    "name": "-2.0, 137.0",
+    "lat": -2.0,
+    "lon": 137.0,
+    "coordinates": {
+      "latitude": -1.875,
+      "longitude": 137.125,
+      "elevation": 251.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.100000381469727,
+      "relative_humidity_2m": 82.0,
+      "weather_code": 95,
+      "wind_speed_10m": 4.104631423950195,
+      "wind_direction_10m": 127.87504577636719,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.012420"
+    }
+  },
+  {
+    "name": "-2.0, 140.0",
+    "lat": -2.0,
+    "lon": 140.0,
+    "coordinates": {
+      "latitude": -2.0,
+      "longitude": 140.0,
+      "elevation": 276.0
+    },
+    "weather_data": {
+      "temperature_2m": 24.75,
+      "relative_humidity_2m": 90.0,
+      "weather_code": 95,
+      "wind_speed_10m": 14.512063980102539,
+      "wind_direction_10m": 113.38524627685547,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.012420"
+    }
+  },
+  {
+    "name": "1.0, 95.0",
+    "lat": 1.0,
+    "lon": 95.0,
+    "coordinates": {
+      "latitude": 1.0,
+      "longitude": 95.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.399999618530273,
+      "relative_humidity_2m": 67.0,
+      "weather_code": 2,
+      "wind_speed_10m": 1.2979984283447266,
+      "wind_direction_10m": 213.69009399414062,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.012420"
+    }
+  },
+  {
+    "name": "1.0, 98.0",
+    "lat": 1.0,
+    "lon": 98.0,
+    "coordinates": {
+      "latitude": 1.125,
+      "longitude": 97.875,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.450000762939453,
+      "relative_humidity_2m": 62.0,
+      "weather_code": 2,
+      "wind_speed_10m": 0.8049845099449158,
+      "wind_direction_10m": 116.56498718261719,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "1.0, 101.0",
+    "lat": 1.0,
+    "lon": 101.0,
+    "coordinates": {
+      "latitude": 1.0,
+      "longitude": 101.0,
+      "elevation": 23.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.049999237060547,
+      "relative_humidity_2m": 82.0,
+      "weather_code": 3,
+      "wind_speed_10m": 4.680000305175781,
+      "wind_direction_10m": 157.38009643554688,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "1.0, 104.0",
+    "lat": 1.0,
+    "lon": 104.0,
+    "coordinates": {
+      "latitude": 1.0,
+      "longitude": 104.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.899999618530273,
+      "relative_humidity_2m": 76.0,
+      "weather_code": 3,
+      "wind_speed_10m": 6.924737930297852,
+      "wind_direction_10m": 188.97254943847656,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "1.0, 107.0",
+    "lat": 1.0,
+    "lon": 107.0,
+    "coordinates": {
+      "latitude": 1.0,
+      "longitude": 107.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.850000381469727,
+      "relative_humidity_2m": 79.0,
+      "weather_code": 80,
+      "wind_speed_10m": 13.55150032043457,
+      "wind_direction_10m": 163.00909423828125,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "1.0, 110.0",
+    "lat": 1.0,
+    "lon": 110.0,
+    "coordinates": {
+      "latitude": 1.0,
+      "longitude": 110.0,
+      "elevation": 597.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.149999618530273,
+      "relative_humidity_2m": 85.0,
+      "weather_code": 3,
+      "wind_speed_10m": 7.628262996673584,
+      "wind_direction_10m": 160.70985412597656,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "1.0, 113.0",
+    "lat": 1.0,
+    "lon": 113.0,
+    "coordinates": {
+      "latitude": 1.0,
+      "longitude": 113.0,
+      "elevation": 71.0
+    },
+    "weather_data": {
+      "temperature_2m": 24.649999618530273,
+      "relative_humidity_2m": 93.0,
+      "weather_code": 95,
+      "wind_speed_10m": 4.802999019622803,
+      "wind_direction_10m": 257.00537109375,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "1.0, 116.0",
+    "lat": 1.0,
+    "lon": 116.0,
+    "coordinates": {
+      "latitude": 1.0,
+      "longitude": 115.875,
+      "elevation": 574.0
+    },
+    "weather_data": {
+      "temperature_2m": 24.25,
+      "relative_humidity_2m": 85.0,
+      "weather_code": 80,
+      "wind_speed_10m": 1.9386591911315918,
+      "wind_direction_10m": 248.1985321044922,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "1.0, 119.0",
+    "lat": 1.0,
+    "lon": 119.0,
+    "coordinates": {
+      "latitude": 1.0,
+      "longitude": 118.875,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.700000762939453,
+      "relative_humidity_2m": 85.0,
+      "weather_code": 80,
+      "wind_speed_10m": 13.830748558044434,
+      "wind_direction_10m": 218.6598358154297,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "1.0, 122.0",
+    "lat": 1.0,
+    "lon": 122.0,
+    "coordinates": {
+      "latitude": 1.0,
+      "longitude": 122.125,
+      "elevation": 21.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.850000381469727,
+      "relative_humidity_2m": 67.0,
+      "weather_code": 2,
+      "wind_speed_10m": 7.491114139556885,
+      "wind_direction_10m": 144.78231811523438,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "1.0, 125.0",
+    "lat": 1.0,
+    "lon": 125.0,
+    "coordinates": {
+      "latitude": 1.0,
+      "longitude": 124.875,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 25.399999618530273,
+      "relative_humidity_2m": 84.0,
+      "weather_code": 3,
+      "wind_speed_10m": 14.843179702758789,
+      "wind_direction_10m": 140.90615844726562,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "1.0, 128.0",
+    "lat": 1.0,
+    "lon": 128.0,
+    "coordinates": {
+      "latitude": 0.875,
+      "longitude": 128.0,
+      "elevation": 419.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.649999618530273,
+      "relative_humidity_2m": 70.0,
+      "weather_code": 2,
+      "wind_speed_10m": 4.320000171661377,
+      "wind_direction_10m": 180.0,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "1.0, 131.0",
+    "lat": 1.0,
+    "lon": 131.0,
+    "coordinates": {
+      "latitude": 1.0,
+      "longitude": 131.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.700000762939453,
+      "relative_humidity_2m": 83.0,
+      "weather_code": 80,
+      "wind_speed_10m": 10.739831924438477,
+      "wind_direction_10m": 140.44036865234375,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "1.0, 134.0",
+    "lat": 1.0,
+    "lon": 134.0,
+    "coordinates": {
+      "latitude": 1.0,
+      "longitude": 134.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.899999618530273,
+      "relative_humidity_2m": 78.0,
+      "weather_code": 2,
+      "wind_speed_10m": 9.422101020812988,
+      "wind_direction_10m": 83.41815185546875,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "1.0, 137.0",
+    "lat": 1.0,
+    "lon": 137.0,
+    "coordinates": {
+      "latitude": 1.0,
+      "longitude": 137.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.700000762939453,
+      "relative_humidity_2m": 82.0,
+      "weather_code": 80,
+      "wind_speed_10m": 9.0,
+      "wind_direction_10m": 73.73973083496094,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "1.0, 140.0",
+    "lat": 1.0,
+    "lon": 140.0,
+    "coordinates": {
+      "latitude": 1.0,
+      "longitude": 140.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.100000381469727,
+      "relative_humidity_2m": 80.0,
+      "weather_code": 3,
+      "wind_speed_10m": 11.96695327758789,
+      "wind_direction_10m": 68.83866882324219,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "4.0, 95.0",
+    "lat": 4.0,
+    "lon": 95.0,
+    "coordinates": {
+      "latitude": 4.0,
+      "longitude": 95.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.450000762939453,
+      "relative_humidity_2m": 72.0,
+      "weather_code": 2,
+      "wind_speed_10m": 11.874544143676758,
+      "wind_direction_10m": 165.96372985839844,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "4.0, 98.0",
+    "lat": 4.0,
+    "lon": 98.0,
+    "coordinates": {
+      "latitude": 4.0,
+      "longitude": 98.0,
+      "elevation": 33.0
+    },
+    "weather_data": {
+      "temperature_2m": 23.600000381469727,
+      "relative_humidity_2m": 82.0,
+      "weather_code": 2,
+      "wind_speed_10m": 4.379589080810547,
+      "wind_direction_10m": 80.53775024414062,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "4.0, 101.0",
+    "lat": 4.0,
+    "lon": 101.0,
+    "coordinates": {
+      "latitude": 4.0,
+      "longitude": 101.0,
+      "elevation": 4.0
+    },
+    "weather_data": {
+      "temperature_2m": 29.049999237060547,
+      "relative_humidity_2m": 71.0,
+      "weather_code": 3,
+      "wind_speed_10m": 3.2599384784698486,
+      "wind_direction_10m": 173.65989685058594,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "4.0, 104.0",
+    "lat": 4.0,
+    "lon": 104.0,
+    "coordinates": {
+      "latitude": 4.0,
+      "longitude": 104.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.649999618530273,
+      "relative_humidity_2m": 80.0,
+      "weather_code": 3,
+      "wind_speed_10m": 12.53813362121582,
+      "wind_direction_10m": 230.82635498046875,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "4.0, 107.0",
+    "lat": 4.0,
+    "lon": 107.0,
+    "coordinates": {
+      "latitude": 4.0,
+      "longitude": 107.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.100000381469727,
+      "relative_humidity_2m": 79.0,
+      "weather_code": 80,
+      "wind_speed_10m": 11.92898941040039,
+      "wind_direction_10m": 185.1943359375,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "4.0, 110.0",
+    "lat": 4.0,
+    "lon": 110.0,
+    "coordinates": {
+      "latitude": 4.0,
+      "longitude": 110.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.950000762939453,
+      "relative_humidity_2m": 78.0,
+      "weather_code": 80,
+      "wind_speed_10m": 10.58791732788086,
+      "wind_direction_10m": 197.81898498535156,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.013419"
+    }
+  },
+  {
+    "name": "4.0, 113.0",
+    "lat": 4.0,
+    "lon": 113.0,
+    "coordinates": {
+      "latitude": 4.0,
+      "longitude": 113.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 26.950000762939453,
+      "relative_humidity_2m": 83.0,
+      "weather_code": 95,
+      "wind_speed_10m": 4.394360065460205,
+      "wind_direction_10m": 214.99209594726562,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.015017"
+    }
+  },
+  {
+    "name": "4.0, 116.0",
+    "lat": 4.0,
+    "lon": 116.0,
+    "coordinates": {
+      "latitude": 3.875,
+      "longitude": 115.875,
+      "elevation": 919.0
+    },
+    "weather_data": {
+      "temperature_2m": 22.700000762939453,
+      "relative_humidity_2m": 73.0,
+      "weather_code": 3,
+      "wind_speed_10m": 5.191993713378906,
+      "wind_direction_10m": 236.30990600585938,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.015017"
+    }
+  },
+  {
+    "name": "4.0, 119.0",
+    "lat": 4.0,
+    "lon": 119.0,
+    "coordinates": {
+      "latitude": 4.0,
+      "longitude": 119.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.200000762939453,
+      "relative_humidity_2m": 83.0,
+      "weather_code": 80,
+      "wind_speed_10m": 12.727921485900879,
+      "wind_direction_10m": 241.2602996826172,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.015017"
+    }
+  },
+  {
+    "name": "4.0, 122.0",
+    "lat": 4.0,
+    "lon": 122.0,
+    "coordinates": {
+      "latitude": 4.0,
+      "longitude": 122.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.0,
+      "relative_humidity_2m": 81.0,
+      "weather_code": 80,
+      "wind_speed_10m": 15.617528915405273,
+      "wind_direction_10m": 154.02566528320312,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.015017"
+    }
+  },
+  {
+    "name": "4.0, 125.0",
+    "lat": 4.0,
+    "lon": 125.0,
+    "coordinates": {
+      "latitude": 4.0,
+      "longitude": 125.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.899999618530273,
+      "relative_humidity_2m": 81.0,
+      "weather_code": 80,
+      "wind_speed_10m": 13.3637113571167,
+      "wind_direction_10m": 152.7447509765625,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.015017"
+    }
+  },
+  {
+    "name": "4.0, 128.0",
+    "lat": 4.0,
+    "lon": 128.0,
+    "coordinates": {
+      "latitude": 4.0,
+      "longitude": 128.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.549999237060547,
+      "relative_humidity_2m": 80.0,
+      "weather_code": 2,
+      "wind_speed_10m": 6.519876956939697,
+      "wind_direction_10m": 173.65989685058594,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.015017"
+    }
+  },
+  {
+    "name": "4.0, 131.0",
+    "lat": 4.0,
+    "lon": 131.0,
+    "coordinates": {
+      "latitude": 4.0,
+      "longitude": 131.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.899999618530273,
+      "relative_humidity_2m": 79.0,
+      "weather_code": 1,
+      "wind_speed_10m": 6.618519306182861,
+      "wind_direction_10m": 157.6198272705078,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.015017"
+    }
+  },
+  {
+    "name": "4.0, 134.0",
+    "lat": 4.0,
+    "lon": 134.0,
+    "coordinates": {
+      "latitude": 4.0,
+      "longitude": 134.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 27.950000762939453,
+      "relative_humidity_2m": 77.0,
+      "weather_code": 1,
+      "wind_speed_10m": 4.829906940460205,
+      "wind_direction_10m": 153.4350128173828,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.015017"
+    }
+  },
+  {
+    "name": "4.0, 137.0",
+    "lat": 4.0,
+    "lon": 137.0,
+    "coordinates": {
+      "latitude": 4.0,
+      "longitude": 137.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.049999237060547,
+      "relative_humidity_2m": 77.0,
+      "weather_code": 1,
+      "wind_speed_10m": 6.924737930297852,
+      "wind_direction_10m": 98.97254943847656,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.015625"
+    }
+  },
+  {
+    "name": "4.0, 140.0",
+    "lat": 4.0,
+    "lon": 140.0,
+    "coordinates": {
+      "latitude": 4.0,
+      "longitude": 140.0,
+      "elevation": 0.0
+    },
+    "weather_data": {
+      "temperature_2m": 28.149999618530273,
+      "relative_humidity_2m": 81.0,
+      "weather_code": 2,
+      "wind_speed_10m": 14.578887939453125,
+      "wind_direction_10m": 69.77505493164062,
+      "timestamp": 1755657000,
+      "timezone": "Asia/Jakarta",
+      "utc_offset_seconds": 25200,
+      "fetched_at": "2025-08-20T09:42:17.015625"
+    }
+  }
+]

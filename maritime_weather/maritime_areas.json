@@ -1,0 +1,1397 @@
+[
+  {
+    "name": "Perairan Aceh Besar - Meulaboh",
+    "slug": "perairan-aceh-besar-meulaboh",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-aceh-besar-meulaboh"
+  },
+  {
+    "name": "Perairan Sabang Banda Aceh",
+    "slug": "perairan-sabang-banda-aceh",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-sabang-banda-aceh"
+  },
+  {
+    "name": "Perairan Aceh Utara - Aceh Timur",
+    "slug": "perairan-aceh-utara-aceh-timur",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-aceh-utara-aceh-timur"
+  },
+  {
+    "name": "Perairan Utara Pidie Jaya - Aceh Besar",
+    "slug": "perairan-utara-pidie-jaya-aceh-besar",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-pidie-jaya-aceh-besar"
+  },
+  {
+    "name": "Perairan Selatan Simeulue",
+    "slug": "perairan-selatan-simeulue",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-simeulue"
+  },
+  {
+    "name": "Perairan Aceh Singkil Pulo Banyak",
+    "slug": "perairan-aceh-singkil-pulo-banyak",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-aceh-singkil-pulo-banyak"
+  },
+  {
+    "name": "Perairan Tamiang - Langsa",
+    "slug": "perairan-tamiang-langsa",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-tamiang-langsa"
+  },
+  {
+    "name": "Perairan Aceh Barat Daya - Simeulue",
+    "slug": "perairan-aceh-barat-daya-simeulue",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-aceh-barat-daya-simeulue"
+  },
+  {
+    "name": "Perairan Selatan P. Bali",
+    "slug": "perairan-selatan-p-bali",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-p-bali"
+  },
+  {
+    "name": "Perairan Utara P. Bali",
+    "slug": "perairan-utara-p-bali",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-p-bali"
+  },
+  {
+    "name": "Perairan Utara Serang",
+    "slug": "perairan-utara-serang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-serang"
+  },
+  {
+    "name": "Perairan Utara Tangerang",
+    "slug": "perairan-utara-tangerang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-tangerang"
+  },
+  {
+    "name": "Perairan Selatan Pandeglang",
+    "slug": "perairan-selatan-pandeglang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-pandeglang"
+  },
+  {
+    "name": "Perairan Selatan Lebak",
+    "slug": "perairan-selatan-lebak",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-lebak"
+  },
+  {
+    "name": "Perairan Bengkulu Bagian Utara",
+    "slug": "perairan-bengkulu-bagian-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-bengkulu-bagian-utara"
+  },
+  {
+    "name": "Perairan Bengkulu",
+    "slug": "perairan-bengkulu",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-bengkulu"
+  },
+  {
+    "name": "Perairan Bengkulu Bagian Selatan",
+    "slug": "perairan-bengkulu-bagian-selatan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-bengkulu-bagian-selatan"
+  },
+  {
+    "name": "Perairan P. Enggano",
+    "slug": "perairan-p-enggano",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-p-enggano"
+  },
+  {
+    "name": "Perairan Gunungkidul",
+    "slug": "perairan-gunungkidul",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-gunungkidul"
+  },
+  {
+    "name": "Perairan Kulonprogo",
+    "slug": "perairan-kulonprogo",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kulonprogo"
+  },
+  {
+    "name": "Perairan Bantul",
+    "slug": "perairan-bantul",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-bantul"
+  },
+  {
+    "name": "Perairan Kep. Seribu Bagian Utara",
+    "slug": "perairan-kep-seribu-bagian-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-seribu-bagian-utara"
+  },
+  {
+    "name": "Perairan Kep. Seribu Bagian Selatan",
+    "slug": "perairan-kep-seribu-bagian-selatan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-seribu-bagian-selatan"
+  },
+  {
+    "name": "Perairan Utara Gorontalo",
+    "slug": "perairan-utara-gorontalo",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-gorontalo"
+  },
+  {
+    "name": "Perairan Sadu",
+    "slug": "perairan-sadu",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-sadu"
+  },
+  {
+    "name": "Perairan Tungkal",
+    "slug": "perairan-tungkal",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-tungkal"
+  },
+  {
+    "name": "Perairan Mendahara Ilir",
+    "slug": "perairan-mendahara-ilir",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-mendahara-ilir"
+  },
+  {
+    "name": "Perairan Sabak Timur",
+    "slug": "perairan-sabak-timur",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-sabak-timur"
+  },
+  {
+    "name": "Perairan NIpah",
+    "slug": "perairan-nipah",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-nipah"
+  },
+  {
+    "name": "Perairan Pangandaran",
+    "slug": "perairan-pangandaran",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-pangandaran"
+  },
+  {
+    "name": "Perairan Indramayu",
+    "slug": "perairan-indramayu",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-indramayu"
+  },
+  {
+    "name": "Perairan Bekasi - Karawang",
+    "slug": "perairan-bekasi-karawang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-bekasi-karawang"
+  },
+  {
+    "name": "Perairan Subang",
+    "slug": "perairan-subang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-subang"
+  },
+  {
+    "name": "Perairan Cirebon",
+    "slug": "perairan-cirebon",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-cirebon"
+  },
+  {
+    "name": "Perairan Sukabumi",
+    "slug": "perairan-sukabumi",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-sukabumi"
+  },
+  {
+    "name": "Perairan Cianjur",
+    "slug": "perairan-cianjur",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-cianjur"
+  },
+  {
+    "name": "Perairan Garut",
+    "slug": "perairan-garut",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-garut"
+  },
+  {
+    "name": "Perairan Tasikmalaya",
+    "slug": "perairan-tasikmalaya",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-tasikmalaya"
+  },
+  {
+    "name": "Perairan Cilacap",
+    "slug": "perairan-cilacap",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-cilacap"
+  },
+  {
+    "name": "Perairan Pati - Rembang",
+    "slug": "perairan-pati-rembang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-pati-rembang"
+  },
+  {
+    "name": "Perairan Kep. Karimunjawa Bagian Barat",
+    "slug": "perairan-kep-karimunjawa-bagian-barat",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-karimunjawa-bagian-barat"
+  },
+  {
+    "name": "Perairan Kep. Karimunjawa Bagian Timur",
+    "slug": "perairan-kep-karimunjawa-bagian-timur",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-karimunjawa-bagian-timur"
+  },
+  {
+    "name": "Perairan Brebes",
+    "slug": "perairan-brebes",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-brebes"
+  },
+  {
+    "name": "Perairan Tegal",
+    "slug": "perairan-tegal",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-tegal"
+  },
+  {
+    "name": "Perairan Pemalang",
+    "slug": "perairan-pemalang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-pemalang"
+  },
+  {
+    "name": "Perairan Pekalongan - Kendal",
+    "slug": "perairan-pekalongan-kendal",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-pekalongan-kendal"
+  },
+  {
+    "name": "Perairan Semarang - Demak",
+    "slug": "perairan-semarang-demak",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-semarang-demak"
+  },
+  {
+    "name": "Perairan Jepara",
+    "slug": "perairan-jepara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-jepara"
+  },
+  {
+    "name": "Perairan Kebumen",
+    "slug": "perairan-kebumen",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kebumen"
+  },
+  {
+    "name": "Perairan Purworejo",
+    "slug": "perairan-purworejo",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-purworejo"
+  },
+  {
+    "name": "Perairan Kep. Kangean  Bagian Timur",
+    "slug": "perairan-kep-kangean-bagian-timur",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-kangean-bagian-timur"
+  },
+  {
+    "name": "Perairan Banyuwangi",
+    "slug": "perairan-banyuwangi",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-banyuwangi"
+  },
+  {
+    "name": "Perairan Masalembo",
+    "slug": "perairan-masalembo",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-masalembo"
+  },
+  {
+    "name": "Perairan Gresik Bagian Utara",
+    "slug": "perairan-gresik-bagian-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-gresik-bagian-utara"
+  },
+  {
+    "name": "Perairan Situbondo Bagian Timur",
+    "slug": "perairan-situbondo-bagian-timur",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-situbondo-bagian-timur"
+  },
+  {
+    "name": "Perairan Selatan Sampang",
+    "slug": "perairan-selatan-sampang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-sampang"
+  },
+  {
+    "name": "Perairan Sumenep Bagian Utara",
+    "slug": "perairan-sumenep-bagian-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-sumenep-bagian-utara"
+  },
+  {
+    "name": "Perairan Kep. Sapudi Bagian Utara",
+    "slug": "perairan-kep-sapudi-bagian-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-sapudi-bagian-utara"
+  },
+  {
+    "name": "Perairan Kep. Sapudi Bagian Selatan",
+    "slug": "perairan-kep-sapudi-bagian-selatan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-sapudi-bagian-selatan"
+  },
+  {
+    "name": "Perairan Kep. Kangean Bagian Utara",
+    "slug": "perairan-kep-kangean-bagian-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-kangean-bagian-utara"
+  },
+  {
+    "name": "Perairan Kep. Kangean Selatan",
+    "slug": "perairan-kep-kangean-selatan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-kangean-selatan"
+  },
+  {
+    "name": "Perairan Tuban",
+    "slug": "perairan-tuban",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-tuban"
+  },
+  {
+    "name": "Perairan Lamongan",
+    "slug": "perairan-lamongan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-lamongan"
+  },
+  {
+    "name": "Perairan Utara Bangkalan",
+    "slug": "perairan-utara-bangkalan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-bangkalan"
+  },
+  {
+    "name": "Perairan Utara Sampang",
+    "slug": "perairan-utara-sampang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-sampang"
+  },
+  {
+    "name": "Perairan Utara Pamengkasan",
+    "slug": "perairan-utara-pamengkasan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-pamengkasan"
+  },
+  {
+    "name": "Perairan Sumenep Bagian Selatan",
+    "slug": "perairan-sumenep-bagian-selatan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-sumenep-bagian-selatan"
+  },
+  {
+    "name": "Perairan Selatan Pamengkasan",
+    "slug": "perairan-selatan-pamengkasan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-pamengkasan"
+  },
+  {
+    "name": "Perairan Surabaya - Bangkalan",
+    "slug": "perairan-surabaya-bangkalan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-surabaya-bangkalan"
+  },
+  {
+    "name": "Perairan Sidoarjo",
+    "slug": "perairan-sidoarjo",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-sidoarjo"
+  },
+  {
+    "name": "Perairan Pasuruan",
+    "slug": "perairan-pasuruan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-pasuruan"
+  },
+  {
+    "name": "Perairan Probolinggo",
+    "slug": "perairan-probolinggo",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-probolinggo"
+  },
+  {
+    "name": "Perairan Situbondo Bagian Barat",
+    "slug": "perairan-situbondo-bagian-barat",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-situbondo-bagian-barat"
+  },
+  {
+    "name": "Perairan Pacitan",
+    "slug": "perairan-pacitan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-pacitan"
+  },
+  {
+    "name": "Perairan Trenggalek",
+    "slug": "perairan-trenggalek",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-trenggalek"
+  },
+  {
+    "name": "Perairan Tulungagung",
+    "slug": "perairan-tulungagung",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-tulungagung"
+  },
+  {
+    "name": "Perairan Blitar",
+    "slug": "perairan-blitar",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-blitar"
+  },
+  {
+    "name": "Perairan Malang",
+    "slug": "perairan-malang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-malang"
+  },
+  {
+    "name": "Perairan Lumajang",
+    "slug": "perairan-lumajang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-lumajang"
+  },
+  {
+    "name": "Perairan Jember",
+    "slug": "perairan-jember",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-jember"
+  },
+  {
+    "name": "Perairan Kayong Utara",
+    "slug": "perairan-kayong-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kayong-utara"
+  },
+  {
+    "name": "Perairan Sambas",
+    "slug": "perairan-sambas",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-sambas"
+  },
+  {
+    "name": "Perairan Kubu Raya",
+    "slug": "perairan-kubu-raya",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kubu-raya"
+  },
+  {
+    "name": "Perairan Ketapang",
+    "slug": "perairan-ketapang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-ketapang"
+  },
+  {
+    "name": "Perairan Pontianak - Mempawah",
+    "slug": "perairan-pontianak-mempawah",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-pontianak-mempawah"
+  },
+  {
+    "name": "Perairan Singkawang - Bengkayang",
+    "slug": "perairan-singkawang-bengkayang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-singkawang-bengkayang"
+  },
+  {
+    "name": "Perairan Kotabaru",
+    "slug": "perairan-kotabaru",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kotabaru"
+  },
+  {
+    "name": "Perairan Tanah Laut",
+    "slug": "perairan-tanah-laut",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-tanah-laut"
+  },
+  {
+    "name": "Perairan Banjarmasin",
+    "slug": "perairan-banjarmasin",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-banjarmasin"
+  },
+  {
+    "name": "Perairan Tanah Bumbu",
+    "slug": "perairan-tanah-bumbu",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-tanah-bumbu"
+  },
+  {
+    "name": "Perairan Teluk Sampit",
+    "slug": "perairan-teluk-sampit",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-teluk-sampit"
+  },
+  {
+    "name": "Perairan Kuala Jelai",
+    "slug": "perairan-kuala-jelai",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kuala-jelai"
+  },
+  {
+    "name": "Perairan Kumai",
+    "slug": "perairan-kumai",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kumai"
+  },
+  {
+    "name": "Perairan Panglalan Bun",
+    "slug": "perairan-panglalan-bun",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-panglalan-bun"
+  },
+  {
+    "name": "Perairan Kuala Pembuang",
+    "slug": "perairan-kuala-pembuang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kuala-pembuang"
+  },
+  {
+    "name": "Perairan Kuala Kapuas",
+    "slug": "perairan-kuala-kapuas",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kuala-kapuas"
+  },
+  {
+    "name": "Perairan Berau",
+    "slug": "perairan-berau",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-berau"
+  },
+  {
+    "name": "Perairan Paser",
+    "slug": "perairan-paser",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-paser"
+  },
+  {
+    "name": "Perairan Penajam - Balikpapan",
+    "slug": "perairan-penajam-balikpapan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-penajam-balikpapan"
+  },
+  {
+    "name": "Perairan Kutai Kartanegara - Bontang",
+    "slug": "perairan-kutai-kartanegara-bontang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kutai-kartanegara-bontang"
+  },
+  {
+    "name": "Perairan Kutai Timur",
+    "slug": "perairan-kutai-timur",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kutai-timur"
+  },
+  {
+    "name": "Perairan Maratua",
+    "slug": "perairan-maratua",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-maratua"
+  },
+  {
+    "name": "Perairan Tanjung Selor",
+    "slug": "perairan-tanjung-selor",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-tanjung-selor"
+  },
+  {
+    "name": "Perairan Tarakan",
+    "slug": "perairan-tarakan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-tarakan"
+  },
+  {
+    "name": "Perairan Nunukan - Sebatik",
+    "slug": "perairan-nunukan-sebatik",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-nunukan-sebatik"
+  },
+  {
+    "name": "Perairan Bangka Barat Bagian Utara",
+    "slug": "perairan-bangka-barat-bagian-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-bangka-barat-bagian-utara"
+  },
+  {
+    "name": "Perairan Bangka Bagian Utara",
+    "slug": "perairan-bangka-bagian-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-bangka-bagian-utara"
+  },
+  {
+    "name": "Perairan P. Belitung Bagian Timur",
+    "slug": "perairan-p-belitung-bagian-timur",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-p-belitung-bagian-timur"
+  },
+  {
+    "name": "Perairan P. Belitung Bagian Utara",
+    "slug": "perairan-p-belitung-bagian-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-p-belitung-bagian-utara"
+  },
+  {
+    "name": "Perairan P. Belitung Bagian Selatan",
+    "slug": "perairan-p-belitung-bagian-selatan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-p-belitung-bagian-selatan"
+  },
+  {
+    "name": "Perairan Bangka Barat Bagian Selatan",
+    "slug": "perairan-bangka-barat-bagian-selatan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-bangka-barat-bagian-selatan"
+  },
+  {
+    "name": "Perairan Bangka Bagian Selatan",
+    "slug": "perairan-bangka-bagian-selatan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-bangka-bagian-selatan"
+  },
+  {
+    "name": "Perairan Bangka Tengah Bagian Timur",
+    "slug": "perairan-bangka-tengah-bagian-timur",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-bangka-tengah-bagian-timur"
+  },
+  {
+    "name": "Perairan Bangka Tengah Bagian Barat",
+    "slug": "perairan-bangka-tengah-bagian-barat",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-bangka-tengah-bagian-barat"
+  },
+  {
+    "name": "Perairan Bangka Selatan Bagian Timur",
+    "slug": "perairan-bangka-selatan-bagian-timur",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-bangka-selatan-bagian-timur"
+  },
+  {
+    "name": "Perairan Bangka Selatan Bagian Barat",
+    "slug": "perairan-bangka-selatan-bagian-barat",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-bangka-selatan-bagian-barat"
+  },
+  {
+    "name": "Perairan Kep. Lingga",
+    "slug": "perairan-kep-lingga",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-lingga"
+  },
+  {
+    "name": "Perairan Barat Kep. Natuna",
+    "slug": "perairan-barat-kep-natuna",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-kep-natuna"
+  },
+  {
+    "name": "Perairan Kep. Tambelan",
+    "slug": "perairan-kep-tambelan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-tambelan"
+  },
+  {
+    "name": "Perairan Kep. Karimun",
+    "slug": "perairan-kep-karimun",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-karimun"
+  },
+  {
+    "name": "Perairan Kep. Batam",
+    "slug": "perairan-kep-batam",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-batam"
+  },
+  {
+    "name": "Perairan Kep. Bintan",
+    "slug": "perairan-kep-bintan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-bintan"
+  },
+  {
+    "name": "Perairan Selatan Kep. Anambas",
+    "slug": "perairan-selatan-kep-anambas",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-kep-anambas"
+  },
+  {
+    "name": "Perairan Utara Kep. Natuna",
+    "slug": "perairan-utara-kep-natuna",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-kep-natuna"
+  },
+  {
+    "name": "Perairan Timur Kep. Natuna",
+    "slug": "perairan-timur-kep-natuna",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-kep-natuna"
+  },
+  {
+    "name": "Perairan Selatan Kep. Natuna",
+    "slug": "perairan-selatan-kep-natuna",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-kep-natuna"
+  },
+  {
+    "name": "Perairan Kep. Subi - Serasan",
+    "slug": "perairan-kep-subi-serasan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-subi-serasan"
+  },
+  {
+    "name": "Perairan Kep. Natuna - Anambas",
+    "slug": "perairan-kep-natuna-anambas",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-natuna-anambas"
+  },
+  {
+    "name": "Perairan Utara Kep. Anambas",
+    "slug": "perairan-utara-kep-anambas",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-kep-anambas"
+  },
+  {
+    "name": "Perairan Barat Lampung",
+    "slug": "perairan-barat-lampung",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-lampung"
+  },
+  {
+    "name": "Perairan Timur Lampung Bagian Utara",
+    "slug": "perairan-timur-lampung-bagian-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-lampung-bagian-utara"
+  },
+  {
+    "name": "Perairan Teluk Lampung Bagian Utara",
+    "slug": "perairan-teluk-lampung-bagian-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-teluk-lampung-bagian-utara"
+  },
+  {
+    "name": "Perairan Teluk Lampung Bagian Selatan",
+    "slug": "perairan-teluk-lampung-bagian-selatan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-teluk-lampung-bagian-selatan"
+  },
+  {
+    "name": "Perairan Timur Lampung Bagian Selatan",
+    "slug": "perairan-timur-lampung-bagian-selatan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-lampung-bagian-selatan"
+  },
+  {
+    "name": "Perairan Kep. Sermata - Kep. Leti",
+    "slug": "perairan-kep-sermata-kep-leti",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-sermata-kep-leti"
+  },
+  {
+    "name": "Perairan Kep. Banda Neira",
+    "slug": "perairan-kep-banda-neira",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-banda-neira"
+  },
+  {
+    "name": "Perairan Utara P. Buru",
+    "slug": "perairan-utara-p-buru",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-p-buru"
+  },
+  {
+    "name": "Perairan Utara Kep. Aru",
+    "slug": "perairan-utara-kep-aru",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-kep-aru"
+  },
+  {
+    "name": "Perairan Kep. Kai",
+    "slug": "perairan-kep-kai",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-kai"
+  },
+  {
+    "name": "Perairan Barat Kep. Tanimbar",
+    "slug": "perairan-barat-kep-tanimbar",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-kep-tanimbar"
+  },
+  {
+    "name": "Perairan Kep. Babar",
+    "slug": "perairan-kep-babar",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-babar"
+  },
+  {
+    "name": "Perairan Selatan P. Buru",
+    "slug": "perairan-selatan-p-buru",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-p-buru"
+  },
+  {
+    "name": "Perairan Seram Bagian Timur (P. Gorong)",
+    "slug": "perairan-seram-bagian-timur-p-gorong",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-seram-bagian-timur-p-gorong"
+  },
+  {
+    "name": "Perairan Utara Maluku Tengah",
+    "slug": "perairan-utara-maluku-tengah",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-maluku-tengah"
+  },
+  {
+    "name": "Perairan Seram Bagian Barat",
+    "slug": "perairan-seram-bagian-barat",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-seram-bagian-barat"
+  },
+  {
+    "name": "Perairan P. Ambon - P. Lease",
+    "slug": "perairan-p-ambon-p-lease",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-p-ambon-p-lease"
+  },
+  {
+    "name": "Perairan Selatan Maluku Tengah",
+    "slug": "perairan-selatan-maluku-tengah",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-maluku-tengah"
+  },
+  {
+    "name": "Perairan Selatan Kep. Aru",
+    "slug": "perairan-selatan-kep-aru",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-kep-aru"
+  },
+  {
+    "name": "Perairan Timur Kep. Tanimbar",
+    "slug": "perairan-timur-kep-tanimbar",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-kep-tanimbar"
+  },
+  {
+    "name": "Perairan Wetar",
+    "slug": "perairan-wetar",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-wetar"
+  },
+  {
+    "name": "Perairan Seram Bagian Timur (Utara)",
+    "slug": "perairan-seram-bagian-timur-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-seram-bagian-timur-utara"
+  },
+  {
+    "name": "Perairan Seram Bagian Timur (Selatan)",
+    "slug": "perairan-seram-bagian-timur-selatan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-seram-bagian-timur-selatan"
+  },
+  {
+    "name": "Perairan Timur Kep. Halmahera",
+    "slug": "perairan-timur-kep-halmahera",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-kep-halmahera"
+  },
+  {
+    "name": "Perairan Tenggara Morotai",
+    "slug": "perairan-tenggara-morotai",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-tenggara-morotai"
+  },
+  {
+    "name": "Perairan Halmahera Barat",
+    "slug": "perairan-halmahera-barat",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-halmahera-barat"
+  },
+  {
+    "name": "Perairan Kep. Loloda",
+    "slug": "perairan-kep-loloda",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-loloda"
+  },
+  {
+    "name": "Perairan Selatan Taliabu",
+    "slug": "perairan-selatan-taliabu",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-taliabu"
+  },
+  {
+    "name": "Perairan Utara Mangole",
+    "slug": "perairan-utara-mangole",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-mangole"
+  },
+  {
+    "name": "Perairan Timur Obi",
+    "slug": "perairan-timur-obi",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-obi"
+  },
+  {
+    "name": "Perairan Kep. Batang Dua",
+    "slug": "perairan-kep-batang-dua",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-batang-dua"
+  },
+  {
+    "name": "Perairan Ternate",
+    "slug": "perairan-ternate",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-ternate"
+  },
+  {
+    "name": "Perairan Timur Kayoa",
+    "slug": "perairan-timur-kayoa",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-kayoa"
+  },
+  {
+    "name": "Perairan Barat Kayoa",
+    "slug": "perairan-barat-kayoa",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-kayoa"
+  },
+  {
+    "name": "Perairan Timur Bacan",
+    "slug": "perairan-timur-bacan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-bacan"
+  },
+  {
+    "name": "Perairan Barat Bacan",
+    "slug": "perairan-barat-bacan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-bacan"
+  },
+  {
+    "name": "Perairan Barat Laut Obi",
+    "slug": "perairan-barat-laut-obi",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-laut-obi"
+  },
+  {
+    "name": "Perairan Barat Daya Obi",
+    "slug": "perairan-barat-daya-obi",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-daya-obi"
+  },
+  {
+    "name": "Perairan Timur Laut Obi",
+    "slug": "perairan-timur-laut-obi",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-laut-obi"
+  },
+  {
+    "name": "Perairan Tenggara Obi",
+    "slug": "perairan-tenggara-obi",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-tenggara-obi"
+  },
+  {
+    "name": "Perairan Timur Sanana",
+    "slug": "perairan-timur-sanana",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-sanana"
+  },
+  {
+    "name": "Perairan Barat Sanana",
+    "slug": "perairan-barat-sanana",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-sanana"
+  },
+  {
+    "name": "Perairan Utara Taliabu",
+    "slug": "perairan-utara-taliabu",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-taliabu"
+  },
+  {
+    "name": "Perairan Gebe",
+    "slug": "perairan-gebe",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-gebe"
+  },
+  {
+    "name": "Perairan Barat Laut Morotai",
+    "slug": "perairan-barat-laut-morotai",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-laut-morotai"
+  },
+  {
+    "name": "Perairan Timur Laut Morotai",
+    "slug": "perairan-timur-laut-morotai",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-laut-morotai"
+  },
+  {
+    "name": "Perairan Barat Daya Morotai",
+    "slug": "perairan-barat-daya-morotai",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-daya-morotai"
+  },
+  {
+    "name": "Perairan Utara P. Sumbawa",
+    "slug": "perairan-utara-p-sumbawa",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-p-sumbawa"
+  },
+  {
+    "name": "Perairan Utara P. Lombok",
+    "slug": "perairan-utara-p-lombok",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-p-lombok"
+  },
+  {
+    "name": "Perairan Selatan P. Lombok",
+    "slug": "perairan-selatan-p-lombok",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-p-lombok"
+  },
+  {
+    "name": "Perairan Selatan P. Sumbawa",
+    "slug": "perairan-selatan-p-sumbawa",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-p-sumbawa"
+  },
+  {
+    "name": "Perairan Utara Flores",
+    "slug": "perairan-utara-flores",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-flores"
+  },
+  {
+    "name": "Perairan Selatan Timor - Rote",
+    "slug": "perairan-selatan-timor-rote",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-timor-rote"
+  },
+  {
+    "name": "Perairan Selatan Flores",
+    "slug": "perairan-selatan-flores",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-flores"
+  },
+  {
+    "name": "Perairan Selatan Sumba",
+    "slug": "perairan-selatan-sumba",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-sumba"
+  },
+  {
+    "name": "Perairan Selatan Sabu - Raijua",
+    "slug": "perairan-selatan-sabu-raijua",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-sabu-raijua"
+  },
+  {
+    "name": "Perairan Selatan Alor - Pantar",
+    "slug": "perairan-selatan-alor-pantar",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-alor-pantar"
+  },
+  {
+    "name": "Perairan Utara Sabu - Raijua",
+    "slug": "perairan-utara-sabu-raijua",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-sabu-raijua"
+  },
+  {
+    "name": "Perairan Utara Kupang - Rote",
+    "slug": "perairan-utara-kupang-rote",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-kupang-rote"
+  },
+  {
+    "name": "Perairan Utara Timor",
+    "slug": "perairan-utara-timor",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-timor"
+  },
+  {
+    "name": "Perairan Selatan P. Biak",
+    "slug": "perairan-selatan-p-biak",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-p-biak"
+  },
+  {
+    "name": "Perairan Sarmi - Mamberamo",
+    "slug": "perairan-sarmi-mamberamo",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-sarmi-mamberamo"
+  },
+  {
+    "name": "Perairan Utara P. Biak",
+    "slug": "perairan-utara-p-biak",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-p-biak"
+  },
+  {
+    "name": "Perairan Timur P. Biak",
+    "slug": "perairan-timur-p-biak",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-p-biak"
+  },
+  {
+    "name": "Perairan Utara Serui",
+    "slug": "perairan-utara-serui",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-serui"
+  },
+  {
+    "name": "Perairan Kep. Mapia",
+    "slug": "perairan-kep-mapia",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-mapia"
+  },
+  {
+    "name": "Perairan Jayapura",
+    "slug": "perairan-jayapura",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-jayapura"
+  },
+  {
+    "name": "Perairan Barat P. Biak",
+    "slug": "perairan-barat-p-biak",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-p-biak"
+  },
+  {
+    "name": "Perairan Selatan Serui",
+    "slug": "perairan-selatan-serui",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-serui"
+  },
+  {
+    "name": "Perairan Selatan Kaimana",
+    "slug": "perairan-selatan-kaimana",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-kaimana"
+  },
+  {
+    "name": "Perairan Utara Fakfak",
+    "slug": "perairan-utara-fakfak",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-fakfak"
+  },
+  {
+    "name": "Perairan Utara Manokwari",
+    "slug": "perairan-utara-manokwari",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-manokwari"
+  },
+  {
+    "name": "Perairan Selatan Fakfak",
+    "slug": "perairan-selatan-fakfak",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-fakfak"
+  },
+  {
+    "name": "Perairan Timur Manokwari",
+    "slug": "perairan-timur-manokwari",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-manokwari"
+  },
+  {
+    "name": "Perairan Raja Ampat Bagian Utara",
+    "slug": "perairan-raja-ampat-bagian-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-raja-ampat-bagian-utara"
+  },
+  {
+    "name": "Perairan Sorong Selatan",
+    "slug": "perairan-sorong-selatan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-sorong-selatan"
+  },
+  {
+    "name": "Perairan Raja Ampat Sorong",
+    "slug": "perairan-raja-ampat-sorong",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-raja-ampat-sorong"
+  },
+  {
+    "name": "Perairan Misool",
+    "slug": "perairan-misool",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-misool"
+  },
+  {
+    "name": "Perairan Merauke",
+    "slug": "perairan-merauke",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-merauke"
+  },
+  {
+    "name": "Perairan Asmat",
+    "slug": "perairan-asmat",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-asmat"
+  },
+  {
+    "name": "Perairan Mappi",
+    "slug": "perairan-mappi",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-mappi"
+  },
+  {
+    "name": "Perairan Yos Sudarso Bagian Utara",
+    "slug": "perairan-yos-sudarso-bagian-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-yos-sudarso-bagian-utara"
+  },
+  {
+    "name": "Perairan Yos Sudarso Bagian Selatan",
+    "slug": "perairan-yos-sudarso-bagian-selatan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-yos-sudarso-bagian-selatan"
+  },
+  {
+    "name": "Perairan Kokonao",
+    "slug": "perairan-kokonao",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kokonao"
+  },
+  {
+    "name": "Perairan Timika",
+    "slug": "perairan-timika",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timika"
+  },
+  {
+    "name": "Perairan Dumai - Bengkalis",
+    "slug": "perairan-dumai-bengkalis",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-dumai-bengkalis"
+  },
+  {
+    "name": "Perairan Kep. Meranti - Pelalawan",
+    "slug": "perairan-kep-meranti-pelalawan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-meranti-pelalawan"
+  },
+  {
+    "name": "Perairan Rokan Hilir",
+    "slug": "perairan-rokan-hilir",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-rokan-hilir"
+  },
+  {
+    "name": "Perairan Indragiri Hilir",
+    "slug": "perairan-indragiri-hilir",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-indragiri-hilir"
+  },
+  {
+    "name": "Perairan Topoyo",
+    "slug": "perairan-topoyo",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-topoyo"
+  },
+  {
+    "name": "Perairan Polewali",
+    "slug": "perairan-polewali",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-polewali"
+  },
+  {
+    "name": "Perairan Balanipa",
+    "slug": "perairan-balanipa",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-balanipa"
+  },
+  {
+    "name": "Perairan Majene",
+    "slug": "perairan-majene",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-majene"
+  },
+  {
+    "name": "Perairan Sendana",
+    "slug": "perairan-sendana",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-sendana"
+  },
+  {
+    "name": "Perairan Malunda",
+    "slug": "perairan-malunda",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-malunda"
+  },
+  {
+    "name": "Perairan Tapalang",
+    "slug": "perairan-tapalang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-tapalang"
+  },
+  {
+    "name": "Perairan Mamuju",
+    "slug": "perairan-mamuju",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-mamuju"
+  },
+  {
+    "name": "Perairan Tikke",
+    "slug": "perairan-tikke",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-tikke"
+  },
+  {
+    "name": "Perairan Pasangkayu",
+    "slug": "perairan-pasangkayu",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-pasangkayu"
+  },
+  {
+    "name": "Perairan Kep. Takabonerate",
+    "slug": "perairan-kep-takabonerate",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-takabonerate"
+  },
+  {
+    "name": "Perairan Pangkep",
+    "slug": "perairan-pangkep",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-pangkep"
+  },
+  {
+    "name": "Perairan Jeneponto",
+    "slug": "perairan-jeneponto",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-jeneponto"
+  },
+  {
+    "name": "Perairan Bone",
+    "slug": "perairan-bone",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-bone"
+  },
+  {
+    "name": "Perairan Luwu Utara",
+    "slug": "perairan-luwu-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-luwu-utara"
+  },
+  {
+    "name": "Perairan Luwu",
+    "slug": "perairan-luwu",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-luwu"
+  },
+  {
+    "name": "Perairan Kep. Selayar",
+    "slug": "perairan-kep-selayar",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-selayar"
+  },
+  {
+    "name": "Perairan Wajo",
+    "slug": "perairan-wajo",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-wajo"
+  },
+  {
+    "name": "Perairan Sinjai",
+    "slug": "perairan-sinjai",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-sinjai"
+  },
+  {
+    "name": "Perairan Bulukumba",
+    "slug": "perairan-bulukumba",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-bulukumba"
+  },
+  {
+    "name": "Perairan Makassar",
+    "slug": "perairan-makassar",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-makassar"
+  },
+  {
+    "name": "Perairan Barru",
+    "slug": "perairan-barru",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barru"
+  },
+  {
+    "name": "Perairan Pinrang",
+    "slug": "perairan-pinrang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-pinrang"
+  },
+  {
+    "name": "Perairan Donggala - Palu",
+    "slug": "perairan-donggala-palu",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-donggala-palu"
+  },
+  {
+    "name": "Perairan Tolitoli",
+    "slug": "perairan-tolitoli",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-tolitoli"
+  },
+  {
+    "name": "Perairan Banggai Laut",
+    "slug": "perairan-banggai-laut",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-banggai-laut"
+  },
+  {
+    "name": "Perairan Timur Banggai",
+    "slug": "perairan-timur-banggai",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-banggai"
+  },
+  {
+    "name": "Perairan Buol",
+    "slug": "perairan-buol",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-buol"
+  },
+  {
+    "name": "Perairan Kep. Tojounauna",
+    "slug": "perairan-kep-tojounauna",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-tojounauna"
+  },
+  {
+    "name": "Perairan Banggai Kepulauan",
+    "slug": "perairan-banggai-kepulauan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-banggai-kepulauan"
+  },
+  {
+    "name": "Perairan Morowali",
+    "slug": "perairan-morowali",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-morowali"
+  },
+  {
+    "name": "Perairan Morowali Utara",
+    "slug": "perairan-morowali-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-morowali-utara"
+  },
+  {
+    "name": "Perairan Selatan Banggai",
+    "slug": "perairan-selatan-banggai",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-banggai"
+  },
+  {
+    "name": "Perairan Buton",
+    "slug": "perairan-buton",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-buton"
+  },
+  {
+    "name": "Perairan Utara Wawoni",
+    "slug": "perairan-utara-wawoni",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-wawoni"
+  },
+  {
+    "name": "Perairan Baubau",
+    "slug": "perairan-baubau",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-baubau"
+  },
+  {
+    "name": "Perairan Wakatobi Bagian Barat",
+    "slug": "perairan-wakatobi-bagian-barat",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-wakatobi-bagian-barat"
+  },
+  {
+    "name": "Perairan Wakatobi Bagian Timur",
+    "slug": "perairan-wakatobi-bagian-timur",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-wakatobi-bagian-timur"
+  },
+  {
+    "name": "Perairan Utara Sulawesi Utara",
+    "slug": "perairan-utara-sulawesi-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-sulawesi-utara"
+  },
+  {
+    "name": "Perairan Kep. Talaud",
+    "slug": "perairan-kep-talaud",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-talaud"
+  },
+  {
+    "name": "Perairan Kep. Sangihe",
+    "slug": "perairan-kep-sangihe",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-sangihe"
+  },
+  {
+    "name": "Perairan Kep. Sitaro",
+    "slug": "perairan-kep-sitaro",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-sitaro"
+  },
+  {
+    "name": "Perairan Selatan Sulawesi Utara",
+    "slug": "perairan-selatan-sulawesi-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-selatan-sulawesi-utara"
+  },
+  {
+    "name": "Perairan Minahasa Utara",
+    "slug": "perairan-minahasa-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-minahasa-utara"
+  },
+  {
+    "name": "Perairan Pesisir Selatan",
+    "slug": "perairan-pesisir-selatan",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-pesisir-selatan"
+  },
+  {
+    "name": "Perairan Barat Pagai",
+    "slug": "perairan-barat-pagai",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-pagai"
+  },
+  {
+    "name": "Perairan Timur Pagai",
+    "slug": "perairan-timur-pagai",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-pagai"
+  },
+  {
+    "name": "Perairan Agam - Pasaman Barat",
+    "slug": "perairan-agam-pasaman-barat",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-agam-pasaman-barat"
+  },
+  {
+    "name": "Perairan Padang - Padang Pariaman",
+    "slug": "perairan-padang-padang-pariaman",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-padang-padang-pariaman"
+  },
+  {
+    "name": "Perairan Timur Siberut",
+    "slug": "perairan-timur-siberut",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-siberut"
+  },
+  {
+    "name": "Perairan Barat Siberut",
+    "slug": "perairan-barat-siberut",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-siberut"
+  },
+  {
+    "name": "Perairan Timur Sipora",
+    "slug": "perairan-timur-sipora",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-sipora"
+  },
+  {
+    "name": "Perairan Barat Sipora",
+    "slug": "perairan-barat-sipora",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-sipora"
+  },
+  {
+    "name": "Perairan Ogan Komering Ilir",
+    "slug": "perairan-ogan-komering-ilir",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-ogan-komering-ilir"
+  },
+  {
+    "name": "Perairan Banyuasin",
+    "slug": "perairan-banyuasin",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-banyuasin"
+  },
+  {
+    "name": "Perairan Timur Sumatera Utara",
+    "slug": "perairan-timur-sumatera-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-sumatera-utara"
+  },
+  {
+    "name": "Perairan Barat Kep. Nias",
+    "slug": "perairan-barat-kep-nias",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-kep-nias"
+  },
+  {
+    "name": "Perairan Barat Sumatra Utara",
+    "slug": "perairan-barat-sumatra-utara",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-sumatra-utara"
+  },
+  {
+    "name": "Perairan Timur Kep. Nias",
+    "slug": "perairan-timur-kep-nias",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-timur-kep-nias"
+  },
+  {
+    "name": "Perairan Barat Kep. Batu",
+    "slug": "perairan-barat-kep-batu",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-barat-kep-batu"
+  },
+  {
+    "name": "Perairan Kep. Batu",
+    "slug": "perairan-kep-batu",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-kep-batu"
+  }
+]

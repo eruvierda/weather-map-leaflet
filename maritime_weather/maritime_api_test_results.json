@@ -1,0 +1,29 @@
+[
+  {
+    "area_name": "Perairan Aceh Utara - Aceh Timur",
+    "slug": "perairan-aceh-utara-aceh-timur",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-aceh-utara-aceh-timur",
+    "status": "success",
+    "content_type": "html",
+    "content_length": 298962,
+    "timestamp": "2025-08-14T15:46:16.732468"
+  },
+  {
+    "area_name": "Perairan Sabang Banda Aceh",
+    "slug": "perairan-sabang-banda-aceh",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-sabang-banda-aceh",
+    "status": "success",
+    "content_type": "html",
+    "content_length": 302767,
+    "timestamp": "2025-08-14T15:46:17.053969"
+  },
+  {
+    "area_name": "Perairan Utara Serang",
+    "slug": "perairan-utara-serang",
+    "url": "https://maritim.bmkg.go.id/cuaca/perairan/perairan-utara-serang",
+    "status": "success",
+    "content_type": "html",
+    "content_length": 298842,
+    "timestamp": "2025-08-14T15:46:17.313515"
+  }
+]

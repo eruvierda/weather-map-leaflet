@@ -1,0 +1,161 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+
+- You can @ files here
+- You can use markdown but dont have to
+1. Efficient Tool Usage
+Parallel Operations: Run independent tasks in parallel, such as fetching data from different API endpoints or processing multiple assets (images, fonts).
+
+Targeted DOM Queries: Use precise selectors (document.getElementById, querySelector, getElementsByClassName) to target specific elements. Avoid broad, inefficient queries like document.querySelectorAll('*').
+
+Minimal File Reads: When debugging or modifying, focus on reading specific code blocks or functions. Avoid loading entire library files or large CSS frameworks unless absolutely necessary.
+
+Progressive Context: Start with the smallest, most relevant context, such as a single function or component. Expand to the entire file or related files only if the initial context is insufficient.
+
+2. Response Optimization
+Concise Communication: Provide direct, actionable code snippets and steps. For front-end, this means a focused HTML tag, a specific CSS rule, or a self-contained JavaScript function.
+
+Essentials First: Address the primary request (e.g., "how to change this button's color") before suggesting related, but non-essential, concepts (e.g., "you could also animate the color change").
+
+No Redundancy: Don’t repeat information already present in the project-specific context (e.g., the name of the framework being used).
+
+3. Code Generation Strategy
+Surgical Edits: Only modify the HTML, CSS, or JavaScript code that is directly relevant to the task. Avoid unnecessary changes to surrounding elements or styles.
+
+Single-Purpose Changes: Make one logical change at a time. For example, first, add the JavaScript event listener, then in a separate step, define the function it calls.
+
+Prefer search_replace: Use for making global changes across a large codebase, like updating a class name or a variable name.
+
+No Speculative Code: Only generate code that directly solves the request. Avoid adding comments, extra variables, or helper functions that aren't requested.
+
+4. Core Workflow Rules
+Information Gathering
+Start Specific: Use exact names of functions, IDs, classes, or data attributes.
+
+Progressive Context: Expand from a single component to its parent and sibling components only if the initial scope is not enough.
+
+Essential Files Only: Read and analyze only the files (.html, .css, .js) that are strictly required for the task.
+
+Parallel Execution: Run multiple independent searches simultaneously, for example, checking a CSS file for a class definition while searching a JavaScript file for a function call.
+
+Code Modifications
+Minimal Changes: Only change the necessary lines.
+
+Single File Focus: Complete changes in one file before moving to another to maintain a clear workflow.
+
+Verify Each Change: After each change, confirm it works as expected by mentally "running" the code or describing the expected visual/functional outcome.
+
+Error-First: Address and fix any syntax or console errors before adding new features.
+
+Communication Style
+Lead with Action: Start with a direct statement of what will be done, like "Here's the HTML for the new button."
+
+Bullet Point Plans: Use concise lists for steps, such as "1. Add this <button> tag to index.html. 2. Add this CSS rule to styles.css. 3. Add this event listener to script.js."
+
+Code Citations: Use a line and file reference format (e.g., 12:15:button.js).
+
+Essential Context Only: Provide only the code and instructions needed for the task, with no extra boilerplate.
+
+5. Specific Optimization Rules
+File Operations
+✅ Read specific line ranges for debugging (e.g., lines 10-25 of app.js).
+
+✅ Use parallel reads for related files (e.g., style.css and main.js).
+
+✅ Use grep_search for exact patterns (e.g., grep_search 'function initApp').
+
+❌ Don’t read entire large files or libraries.
+
+❌ Don’t run sequential file operations if they can be parallelized.
+
+Search Strategy
+✅ Use specific semantic searches, such as "How to add an event listener to a button with id 'my-btn' in JavaScript?".
+
+✅ Run parallel searches with different angles (e.g., one for CSS, one for JavaScript).
+
+✅ Use grep_search for known patterns (<div class="header">).
+
+❌ Don’t use broad searches ("how to build this page").
+
+❌ Don’t repeat similar searches.
+
+Code Changes
+✅ Use search_replace for large files (e.g., replacing all instances of a legacy variable name).
+
+✅ Make atomic, testable changes.
+
+✅ Test incrementally (e.g., verify HTML is structured correctly before adding CSS).
+
+❌ Don’t refactor large codebases unless requested.
+
+❌ Don’t create new files unless necessary.
+
+Response Structure
+✅ Start with an action (tool call or direct answer).
+
+✅ Provide implementation before explanation.
+
+✅ Use concise, scannable formatting (bullet points, bolding).
+
+❌ Don’t explain before acting.
+
+❌ Don’t be verbose.
+
+6. Project-Specific Context
+Technology Stack
+JavaScript (ES6+)
+
+HTML5
+
+CSS3
+
+WebDev: DOM manipulation, event handling, responsive design, accessibility best practices, and possibly front-end frameworks (e.g., React, Vue, Angular) and build tools (e.g., Webpack, Vite).
+
+Key Patterns
+File Structure: Clear separation of concerns (HTML for structure, CSS for style, JS for behavior).
+
+Component Organization: Reusable HTML/CSS components and JavaScript modules.
+
+Performance: Minimize DOM manipulation, optimize asset loading, use efficient selectors.
+
+Error Handling: Graceful error messages, use try...catch blocks for asynchronous code.
+
+Documentation: Only on request.
+
+Common Tasks Priority
+UI Component Development: Efficient and reusable HTML/CSS/JS components.
+
+Interactive Features: Use JavaScript for event handling, animations, and form validation.
+
+Performance: Use native browser APIs, avoid expensive reflows and repaints.
+
+Error Handling: Robust error messages and graceful degradation.
+
+Documentation: Only on request.
+
+Emergency Protocols
+When CPU Usage is High:
+
+Reduce Tool Calls: Combine file operations where possible.
+
+Shorter Responses: Only immediate actionables.
+
+Defer Complex Ops: Suggest breaking down large tasks (e.g., "Let's first handle the HTML structure, then we can add the CSS styling").
+
+Use grep_search: For known patterns causing performance issues.
+
+Success Metrics
+✅ Minimal tool calls.
+
+✅ Precise, actionable responses.
+
+✅ No unnecessary file operations.
+
+✅ Parallel execution.
+
+✅ User can apply suggestions immediately.

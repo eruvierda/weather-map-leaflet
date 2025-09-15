@@ -1,0 +1,662 @@
+[
+  {
+    "port_name": "Pelabuhan Lamteng Pulo Aceh - Aceh Besar",
+    "slug": "pelabuhan-lamteng-pulo-aceh-aceh-besar",
+    "coordinates": {
+      "lat": 5.6444446,
+      "lon": 95.165068
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Malahayati Aceh Besar",
+    "slug": "pelabuhan-malahayati-aceh-besar",
+    "coordinates": {
+      "lat": 5.59622,
+      "lon": 95.525749
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Susoh Aceh Barat Daya",
+    "slug": "pelabuhan-susoh-aceh-barat-daya",
+    "coordinates": {
+      "lat": 3.72008,
+      "lon": 96.811199
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Tapaktuan",
+    "slug": "pelabuhan-tapaktuan",
+    "coordinates": {
+      "lat": 3.253392,
+      "lon": 97.180885
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Singkil",
+    "slug": "pelabuhan-singkil",
+    "coordinates": {
+      "lat": 2.268265,
+      "lon": 97.812631
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Lhokseumawe",
+    "slug": "pelabuhan-lhokseumawe",
+    "coordinates": {
+      "lat": 5.223201,
+      "lon": 97.097896
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Kahyapu",
+    "slug": "pelabuhan-kahyapu",
+    "coordinates": {
+      "lat": -5.347379023,
+      "lon": 102.276119876
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "KPBU Pelabuhan Anggrek",
+    "slug": "pelabuhan-kpbu-anggrek",
+    "coordinates": {
+      "lat": 0.856488573000036,
+      "lon": 122.812825917
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Kluwut (Brebes)",
+    "slug": "pelabuhan-kluwut-brebes",
+    "coordinates": {
+      "lat": -6.70746310866775,
+      "lon": 108.933839279572
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Larangan (Kab.Tegal)",
+    "slug": "pelabuhan-larangan-kab-tegal",
+    "coordinates": {
+      "lat": -6.81672072339355,
+      "lon": 109.198082688994
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Ujung",
+    "slug": "pelabuhan-ujung",
+    "coordinates": {
+      "lat": -7.197782,
+      "lon": 112.734812
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Sapeken",
+    "slug": "pelabuhan-sapeken",
+    "coordinates": {
+      "lat": -7.008571,
+      "lon": 115.703704
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Sapudi",
+    "slug": "pelabuhan-sapudi",
+    "coordinates": {
+      "lat": -7.166968,
+      "lon": 114.325379
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Teluk Suak",
+    "slug": "pelabuhan-teluk-suak",
+    "coordinates": {
+      "lat": 0.788888,
+      "lon": 108.855833
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Penyeberangan Teluk Gosong Kotabaru",
+    "slug": "pelabuhan-penyeberangan-teluk-gosong-kotabaru",
+    "coordinates": {
+      "lat": -3.33380755511746,
+      "lon": 116.262649051817
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Penyeberangan Sebuku Kotabaru",
+    "slug": "pelabuhan-penyeberangan-sebuku-kotabaru",
+    "coordinates": {
+      "lat": -3.37449378575818,
+      "lon": 116.404237905198
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Batulicin Tanah Bumbu",
+    "slug": "pelabuhan-batulicin-tanah-bumbu",
+    "coordinates": {
+      "lat": -3.45125180326576,
+      "lon": 116.010484201131
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Matasiri Kotabaru",
+    "slug": "pelabuhan-matasiri-kotabaru",
+    "coordinates": {
+      "lat": -4.77207453502192,
+      "lon": 115.839105248904
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Marabatuan Kotabaru",
+    "slug": "pelabuhan-marabatuan-kotabaru",
+    "coordinates": {
+      "lat": -4.36071743588174,
+      "lon": 115.811115080895
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Maradapan Kotabaru",
+    "slug": "pelabuhan-maradapan-kotabaru",
+    "coordinates": {
+      "lat": -4.62971663654452,
+      "lon": 115.696531955694
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Tanjung Samalantakam",
+    "slug": "pelabuhan-tanjung-samalantakam",
+    "coordinates": {
+      "lat": -2.57147581967045,
+      "lon": 116.426278649373
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Tanjung Batu, Balikpapan",
+    "slug": "pelabuhan-tanjung-batu-balikpapan",
+    "coordinates": {
+      "lat": 2.2774885,
+      "lon": 118.0908716
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Pulau Derawan",
+    "slug": "pelabuhan-pulau-derawan",
+    "coordinates": {
+      "lat": 2.1960199,
+      "lon": 117.6127193
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Pulau Maratua",
+    "slug": "pelabuhan-pulau-maratua",
+    "coordinates": {
+      "lat": 2.2753417,
+      "lon": 118.5585963
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Tanjung Selor",
+    "slug": "pelabuhan-tanjung-selor",
+    "coordinates": {
+      "lat": 2.90164422000003,
+      "lon": 117.717795207
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Tengkayu I",
+    "slug": "pelabuhan-tengkayu-i",
+    "coordinates": {
+      "lat": 3.2912922,
+      "lon": 117.5672957
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Sembakung",
+    "slug": "pelabuhan-sembakung",
+    "coordinates": {
+      "lat": 3.8492683,
+      "lon": 116.7255735
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Liem Hie Djung Nunukan",
+    "slug": "pelabuhan-liem-hie-djung-nunukan",
+    "coordinates": {
+      "lat": 4.1438091,
+      "lon": 117.6448348
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Speedboat Tana Kuning",
+    "slug": "pelabuhan-speedboat-tana-kuning",
+    "coordinates": {
+      "lat": 2.6042753,
+      "lon": 117.8157013
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Bulang Linggi (Tg.Uban)",
+    "slug": "pelabuhan-bulang-linggi-tg-uban",
+    "coordinates": {
+      "lat": 1.06338459600004,
+      "lon": 104.2171415
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Roro Tg. Uban (Tg.Uban)",
+    "slug": "pelabuhan-roro-tg-uban-tg-uban",
+    "coordinates": {
+      "lat": 1.062394886,
+      "lon": 104.219783524
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Cargo dan Roro Parit",
+    "slug": "pelabuhan-cargo-dan-roro-parit",
+    "coordinates": {
+      "lat": 1.004616404,
+      "lon": 103.353492504
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Mayau",
+    "slug": "pelabuhan-mayau",
+    "coordinates": {
+      "lat": 1.319756249,
+      "lon": 126.364080818
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Gita",
+    "slug": "pelabuhan-gita",
+    "coordinates": {
+      "lat": 0.391402,
+      "lon": 127.622123
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Hiri",
+    "slug": "pelabuhan-hiri",
+    "coordinates": {
+      "lat": 0.885586,
+      "lon": 127.328013
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Jailolo",
+    "slug": "pelabuhan-jailolo",
+    "coordinates": {
+      "lat": 1.0567,
+      "lon": 127.47001
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Maba",
+    "slug": "pelabuhan-maba",
+    "coordinates": {
+      "lat": 0.696984,
+      "lon": 128.295393
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Patani",
+    "slug": "pelabuhan-patani",
+    "coordinates": {
+      "lat": 0.280999,
+      "lon": 128.750859
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Loleo",
+    "slug": "pelabuhan-loleo",
+    "coordinates": {
+      "lat": 0.566695,
+      "lon": 127.53462
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Saketa",
+    "slug": "pelabuhan-saketa",
+    "coordinates": {
+      "lat": -0.359073,
+      "lon": 127.84488
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Dama",
+    "slug": "pelabuhan-dama",
+    "coordinates": {
+      "lat": 2.222178,
+      "lon": 127.796538
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Tifure",
+    "slug": "pelabuhan-tifure",
+    "coordinates": {
+      "lat": 0.968103,
+      "lon": 126.147486
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Kawasi",
+    "slug": "pelabuhan-kawasi",
+    "coordinates": {
+      "lat": -1.59004,
+      "lon": 127.405246
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Laiwui",
+    "slug": "pelabuhan-laiwui",
+    "coordinates": {
+      "lat": -1.334466,
+      "lon": 127.636261
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Jojame",
+    "slug": "pelabuhan-jojame",
+    "coordinates": {
+      "lat": -1.209444,
+      "lon": 127.598328
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Tikong",
+    "slug": "pelabuhan-tikong",
+    "coordinates": {
+      "lat": -1.664978,
+      "lon": 124.527177
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Falabisahaya",
+    "slug": "pelabuhan-falabisahaya",
+    "coordinates": {
+      "lat": -1.789785,
+      "lon": 125.484006
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Pasipa",
+    "slug": "pelabuhan-pasipa",
+    "coordinates": {
+      "lat": -1.881373,
+      "lon": 125.378826
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Bisui",
+    "slug": "pelabuhan-bisui",
+    "coordinates": {
+      "lat": -0.471146,
+      "lon": 128.083071
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Mesa",
+    "slug": "pelabuhan-mesa",
+    "coordinates": {
+      "lat": 0.399035,
+      "lon": 128.292678
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Mafa",
+    "slug": "pelabuhan-mafa",
+    "coordinates": {
+      "lat": 0.053341,
+      "lon": 127.893424
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Tomara",
+    "slug": "pelabuhan-tomara",
+    "coordinates": {
+      "lat": -0.70775,
+      "lon": 127.844416
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Loloda",
+    "slug": "pelabuhan-loloda",
+    "coordinates": {
+      "lat": 2.198841,
+      "lon": 127.769596
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Guruapin",
+    "slug": "pelabuhan-guruapin",
+    "coordinates": {
+      "lat": 0.009919,
+      "lon": 127.411626
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Dowora",
+    "slug": "pelabuhan-dowora",
+    "coordinates": {
+      "lat": 0.692827,
+      "lon": 127.456274
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Dodola",
+    "slug": "pelabuhan-dodola",
+    "coordinates": {
+      "lat": 2.085043,
+      "lon": 128.19498
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Maitara",
+    "slug": "pelabuhan-maitara",
+    "coordinates": {
+      "lat": 0.735077,
+      "lon": 127.378887
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Laigoma",
+    "slug": "pelabuhan-laigoma",
+    "coordinates": {
+      "lat": 0.13277,
+      "lon": 127.218215
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Gili Mas",
+    "slug": "pelabuhan-gili-mas",
+    "coordinates": {
+      "lat": -8.71319,
+      "lon": 116.05
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Pekanbaru",
+    "slug": "pelabuhan-pekanbaru",
+    "coordinates": {
+      "lat": 1.28061485992583,
+      "lon": 102.189682564459
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Kelas I Mamuju ( Simboro )",
+    "slug": "pelabuhan-kelas-i-mamuju-simboro",
+    "coordinates": {
+      "lat": -2.6681382,
+      "lon": 118.893579723
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Bangsalae Siwa - Wajo",
+    "slug": "pelabuhan-bangsalae-siwa-wajo",
+    "coordinates": {
+      "lat": -3.6779878612206,
+      "lon": 120.6299387978
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Perikanan Be'ba - Takalar",
+    "slug": "pelabuhan-perikanan-be-ba-takalar",
+    "coordinates": {
+      "lat": -5.274,
+      "lon": 119.375
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Perikanan Untia - Makassar",
+    "slug": "pelabuhan-perikanan-untia-makassar",
+    "coordinates": {
+      "lat": -5.068,
+      "lon": 119.476
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Tanjung Pising",
+    "slug": "pelabuhan-tanjung-pising",
+    "coordinates": {
+      "lat": -5.071667,
+      "lon": 121.8967
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  },
+  {
+    "port_name": "Pelabuhan Pananaru",
+    "slug": "pelabuhan-pananaru",
+    "coordinates": {
+      "lat": 3.399742,
+      "lon": 125.53978
+    },
+    "error_message": "No error message",
+    "timestamp": "Unknown"
+  }
+]
