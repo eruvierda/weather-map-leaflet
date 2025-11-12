@@ -35,13 +35,13 @@ def main():
     with socketserver.TCPServer(("", PORT), CORSHTTPRequestHandler) as httpd:
         print(f"🚀 Server started at http://localhost:{PORT}")
         print(f"📁 Serving files from: {DIRECTORY}")
-        print(f"🌐 Open your browser and go to: http://localhost:{PORT}/gis_cuaca.html")
+        print(f"🌐 Open your browser and go to: http://localhost:{PORT}")
         print(f"⏹️  Press Ctrl+C to stop the server")
         print("-" * 50)
         
         # Try to open the browser automatically
         try:
-            webbrowser.open(f'http://localhost:{PORT}/gis_cuaca.html')
+            webbrowser.open(f'http://localhost:{PORT}')
         except:
             print("Could not open browser automatically. Please open manually.")
         
