@@ -172,23 +172,85 @@ def save_city_weather_data(data, filename='city_weather_data.json'):
     except Exception as e:
         logging.error(f"Error saving data to {filename}: {e}")
 
+def _parse_iso_datetime(value):
+    if not value:
+        return None
+    try:
+        return datetime.fromisoformat(value)
+    except ValueError:
+        if value.endswith('Z'):
+            try:
+                return datetime.fromisoformat(value[:-1] + '+00:00')
+            except ValueError:
+                return None
+        try:
+            return datetime.fromisoformat(value.replace('Z', '+00:00'))
+        except ValueError:
+            return None
+
+def _hours_since(dt):
+    if dt is None:
+        return None
+    reference = datetime.now(dt.tzinfo) if dt.tzinfo else datetime.now()
+    return (reference - dt).total_seconds() / 3600
+
+def get_latest_city_fetch_time(filename='city_weather_data.json'):
+    """Return the most recent fetched_at timestamp inside the city dataset."""
+    try:
+        with open(filename, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+    except FileNotFoundError:
+        logging.info(f"Data file {filename} does not exist.")
+        return None
+    except json.JSONDecodeError as e:
+        logging.error(f"Failed to parse {filename}: {e}")
+        return None
+    except Exception as e:
+        logging.error(f"Unexpected error reading {filename}: {e}")
+        return None
+
+    latest_fetch = None
+    if isinstance(data, list):
+        for entry in data:
+            if not isinstance(entry, dict):
+                continue
+            weather_data = entry.get('weather_data', {})
+            fetched_at = weather_data.get('fetched_at')
+            timestamp = _parse_iso_datetime(fetched_at)
+            if timestamp and (latest_fetch is None or timestamp > latest_fetch):
+                latest_fetch = timestamp
+
+    return latest_fetch
+
 def check_data_freshness(filename='city_weather_data.json'):
-    """Check if the city weather data is fresh (less than 6 hours old)"""
+    """Check if the city weather data is fresh (less than 6 hours old)."""
     try:
         if not os.path.exists(filename):
             logging.info(f"Data file {filename} does not exist. Update needed.")
             return False
-        
+
+        latest_fetch = get_latest_city_fetch_time(filename)
+        if latest_fetch is not None:
+            age_hours = _hours_since(latest_fetch)
+            if age_hours is not None:
+                if age_hours > 6:
+                    logging.info(
+                        f"Most recent data in {filename} is {age_hours:.1f} hours old (fetched_at={latest_fetch.isoformat()}). Update needed."
+                    )
+                    return False
+                logging.info(
+                    f"Most recent data in {filename} is {age_hours:.1f} hours old (fetched_at={latest_fetch.isoformat()}). Still fresh."
+                )
+                return True
+
+        # Fallback to file modification time if timestamps unavailable
         file_mtime = os.path.getmtime(filename)
         file_age_hours = (time.time() - file_mtime) / 3600
-        
-        if file_age_hours > 6:  # 6 hours threshold
-            logging.info(f"Data file {filename} is {file_age_hours:.1f} hours old. Update needed.")
-            return False
-        else:
-            logging.info(f"Data file {filename} is {file_age_hours:.1f} hours old. Still fresh.")
-            return True
-            
+        logging.info(
+            f"Could not determine fetched_at timestamps in {filename}. Falling back to file age of {file_age_hours:.1f} hours."
+        )
+        return file_age_hours <= 6
+
     except Exception as e:
         logging.error(f"Error checking data freshness: {e}")
         return False

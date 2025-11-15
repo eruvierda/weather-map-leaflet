@@ -10,7 +10,7 @@ import time
 import logging
 import os
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 import subprocess
 
 # Add current directory to path to import local modules
@@ -22,7 +22,8 @@ from update_city_weather import (
     setup_openmeteo_client, 
     fetch_city_weather_data, 
     save_city_weather_data, 
-    check_data_freshness as check_city_freshness
+    check_data_freshness as check_city_freshness,
+    get_latest_city_fetch_time
 )
 
 # Setup logging
@@ -35,26 +36,138 @@ logging.basicConfig(
     ]
 )
 
+def _parse_iso_datetime(value):
+    if not value:
+        return None
+    try:
+        return datetime.fromisoformat(value)
+    except ValueError:
+        if value.endswith('Z'):
+            try:
+                return datetime.fromisoformat(value[:-1] + '+00:00')
+            except ValueError:
+                return None
+        try:
+            return datetime.fromisoformat(value.replace('Z', '+00:00'))
+        except ValueError:
+            return None
+
+
+def _hours_since(dt):
+    if dt is None:
+        return None
+    reference = datetime.now(dt.tzinfo) if dt.tzinfo else datetime.now()
+    return (reference - dt).total_seconds() / 3600
+
+
+def _get_latest_grid_fetch_time(filename='grid_weather_data_1degree.json'):
+    try:
+        with open(filename, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+    except FileNotFoundError:
+        logging.info(f"Grid data file {filename} does not exist.")
+        return None
+    except json.JSONDecodeError as e:
+        logging.error(f"Failed to parse {filename}: {e}")
+        return None
+    except Exception as e:
+        logging.error(f"Unexpected error reading {filename}: {e}")
+        return None
+
+    latest_fetch = None
+    if isinstance(data, list):
+        for entry in data:
+            if not isinstance(entry, dict):
+                continue
+            weather_data = entry.get('weather_data', {})
+            fetched_at = weather_data.get('fetched_at')
+            timestamp = _parse_iso_datetime(fetched_at)
+            if timestamp and (latest_fetch is None or timestamp > latest_fetch):
+                latest_fetch = timestamp
+
+    return latest_fetch
+
+
+def _parse_port_timestamp(value):
+    if not value:
+        return None
+    if value.endswith(' UTC'):
+        try:
+            dt = datetime.strptime(value, "%Y-%m-%d %H:%M UTC")
+            return dt.replace(tzinfo=timezone.utc)
+        except ValueError:
+            pass
+    return _parse_iso_datetime(value)
+
+
+def _get_latest_port_time(filename='../pelabuhan/pelabuhan_weather_data.json'):
+    try:
+        with open(filename, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+    except FileNotFoundError:
+        logging.info(f"Port data file {filename} does not exist.")
+        return None
+    except json.JSONDecodeError as e:
+        logging.error(f"Failed to parse {filename}: {e}")
+        return None
+    except Exception as e:
+        logging.error(f"Unexpected error reading {filename}: {e}")
+        return None
+
+    latest_time = None
+    if isinstance(data, list):
+        for entry in data:
+            if not isinstance(entry, dict):
+                continue
+            weather_data = entry.get('weather_data') or {}
+            issued = weather_data.get('issued')
+            timestamp = _parse_port_timestamp(issued)
+            if timestamp is None:
+                valid_to = weather_data.get('valid_to')
+                timestamp = _parse_port_timestamp(valid_to)
+            if timestamp is None:
+                day1 = weather_data.get('forecast_day1') if isinstance(weather_data, dict) else None
+                if isinstance(day1, list) and day1:
+                    first_time = day1[0].get('time') if isinstance(day1[0], dict) else None
+                    timestamp = _parse_port_timestamp(first_time)
+            if timestamp and (latest_time is None or timestamp > latest_time):
+                latest_time = timestamp
+
+    return latest_time
+
+
 def check_grid_data_freshness(filename='grid_weather_data_1degree.json'):
     """Check if the grid weather data is fresh (less than 12 hours old)"""
     try:
         if not os.path.exists(filename):
             logging.info(f"Grid data file {filename} does not exist. Update needed.")
             return False
-        
+
+        latest_fetch = _get_latest_grid_fetch_time(filename)
+        if latest_fetch is not None:
+            age_hours = _hours_since(latest_fetch)
+            if age_hours is not None:
+                if age_hours > 12:  # 12 hours threshold for grid data
+                    logging.info(
+                        f"Most recent grid data in {filename} is {age_hours:.1f} hours old (fetched_at={latest_fetch.isoformat()}). Update needed."
+                    )
+                    return False
+                logging.info(
+                    f"Most recent grid data in {filename} is {age_hours:.1f} hours old (fetched_at={latest_fetch.isoformat()}). Still fresh."
+                )
+                return True
+
         file_mtime = os.path.getmtime(filename)
         file_age_hours = (time.time() - file_mtime) / 3600
-        
-        if file_age_hours > 12:  # 12 hours threshold for grid data
-            logging.info(f"Grid data file {filename} is {file_age_hours:.1f} hours old. Update needed.")
-            return False
-        else:
-            logging.info(f"Grid data file {filename} is {file_age_hours:.1f} hours old. Still fresh.")
-            return True
-            
+        logging.info(
+            f"Could not determine fetched_at timestamps in {filename}. Falling back to file age of {file_age_hours:.1f} hours."
+        )
+        return file_age_hours <= 12
+
     except Exception as e:
         logging.error(f"Error checking grid data freshness: {e}")
         return False
+
 
 def check_port_data_freshness(filename='../pelabuhan/pelabuhan_weather_data.json'):
     """Check if the port weather data is fresh (less than 6 hours old)"""
@@ -62,17 +175,28 @@ def check_port_data_freshness(filename='../pelabuhan/pelabuhan_weather_data.json
         if not os.path.exists(filename):
             logging.info(f"Port data file {filename} does not exist. Update needed.")
             return False
-        
+
+        latest_time = _get_latest_port_time(filename)
+        if latest_time is not None:
+            age_hours = _hours_since(latest_time)
+            if age_hours is not None:
+                if age_hours > 6:  # 6 hours threshold for port data
+                    logging.info(
+                        f"Most recent port data in {filename} is {age_hours:.1f} hours old (timestamp={latest_time.isoformat()}). Update needed."
+                    )
+                    return False
+                logging.info(
+                    f"Most recent port data in {filename} is {age_hours:.1f} hours old (timestamp={latest_time.isoformat()}). Still fresh."
+                )
+                return True
+
         file_mtime = os.path.getmtime(filename)
         file_age_hours = (time.time() - file_mtime) / 3600
-        
-        if file_age_hours > 6:  # 6 hours threshold for port data
-            logging.info(f"Port data file {filename} is {file_age_hours:.1f} hours old. Update needed.")
-            return False
-        else:
-            logging.info(f"Port data file {filename} is {file_age_hours:.1f} hours old. Still fresh.")
-            return True
-            
+        logging.info(
+            f"Could not determine timestamps in {filename}. Falling back to file age of {file_age_hours:.1f} hours."
+        )
+        return file_age_hours <= 6
+
     except Exception as e:
         logging.error(f"Error checking port data freshness: {e}")
         return False
@@ -204,8 +328,17 @@ def show_status():
     city_status = "✅ Fresh" if check_city_freshness() else "❌ Needs Update"
     city_file = 'city_weather_data.json'
     if os.path.exists(city_file):
-        city_age = (time.time() - os.path.getmtime(city_file)) / 3600
-        logger.info(f"City Weather: {city_status} (Age: {city_age:.1f} hours)")
+        city_latest = get_latest_city_fetch_time(city_file)
+        if city_latest is not None:
+            city_age = _hours_since(city_latest)
+            logger.info(
+                f"City Weather: {city_status} (Age: {city_age:.1f} hours, fetched_at={city_latest.isoformat()})"
+            )
+        else:
+            city_age = (time.time() - os.path.getmtime(city_file)) / 3600
+            logger.info(
+                f"City Weather: {city_status} (No fetched_at timestamps found, file age={city_age:.1f} hours)"
+            )
     else:
         logger.info("City Weather: ❌ File Not Found")
     
@@ -213,8 +346,17 @@ def show_status():
     grid_status = "✅ Fresh" if check_grid_data_freshness() else "❌ Needs Update"
     grid_file = 'grid_weather_data_1degree.json'
     if os.path.exists(grid_file):
-        grid_age = (time.time() - os.path.getmtime(grid_file)) / 3600
-        logger.info(f"Grid Weather: {grid_status} (Age: {grid_age:.1f} hours)")
+        grid_latest = _get_latest_grid_fetch_time(grid_file)
+        if grid_latest is not None:
+            grid_age = _hours_since(grid_latest)
+            logger.info(
+                f"Grid Weather: {grid_status} (Age: {grid_age:.1f} hours, fetched_at={grid_latest.isoformat()})"
+            )
+        else:
+            grid_age = (time.time() - os.path.getmtime(grid_file)) / 3600
+            logger.info(
+                f"Grid Weather: {grid_status} (No fetched_at timestamps found, file age={grid_age:.1f} hours)"
+            )
     else:
         logger.info("Grid Weather: ❌ File Not Found")
     
@@ -222,8 +364,17 @@ def show_status():
     port_status = "✅ Fresh" if check_port_data_freshness() else "❌ Needs Update"
     port_file = '../pelabuhan/pelabuhan_weather_data.json'
     if os.path.exists(port_file):
-        port_age = (time.time() - os.path.getmtime(port_file)) / 3600
-        logger.info(f"Port Weather: {port_status} (Age: {port_age:.1f} hours)")
+        port_latest = _get_latest_port_time(port_file)
+        if port_latest is not None:
+            port_age = _hours_since(port_latest)
+            logger.info(
+                f"Port Weather: {port_status} (Age: {port_age:.1f} hours, latest timestamp={port_latest.isoformat()})"
+            )
+        else:
+            port_age = (time.time() - os.path.getmtime(port_file)) / 3600
+            logger.info(
+                f"Port Weather: {port_status} (No timestamps found, file age={port_age:.1f} hours)"
+            )
     else:
         logger.info("Port Weather: ❌ File Not Found")
     

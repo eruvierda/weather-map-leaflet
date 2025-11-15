@@ -43,3 +43,70 @@
 2025-08-28 10:32:43,784 - INFO - Grid data file grid_weather_data_1degree.json is 1.2 hours old. Still fresh.
 2025-08-28 10:32:43,786 - INFO - Port data file ../pelabuhan/pelabuhan_weather_data.json is 0.4 hours old. Still fresh.
 2025-08-28 10:32:43,788 - INFO - ============================================================
+2025-11-12 09:04:21,060 - INFO - Unified Weather Data Update System Started
+2025-11-12 09:04:25,594 - INFO - ============================================================
+2025-11-12 09:04:25,594 - INFO - Weather Data Status Report
+2025-11-12 09:04:25,595 - INFO - ============================================================
+2025-11-12 09:04:25,595 - INFO - Data file city_weather_data.json is 0.1 hours old. Still fresh.
+2025-11-12 09:04:25,603 - INFO - Grid data file grid_weather_data_1degree.json is 0.1 hours old. Still fresh.
+2025-11-12 09:04:25,606 - INFO - Port data file ../pelabuhan/pelabuhan_weather_data.json is 0.1 hours old. Still fresh.
+2025-11-12 09:04:25,608 - INFO - ============================================================
+2025-11-12 09:06:54,743 - INFO - ============================================================
+2025-11-12 09:06:54,743 - INFO - Starting City Weather Update
+2025-11-12 09:06:54,743 - INFO - ============================================================
+2025-11-12 09:06:54,745 - INFO - Data file city_weather_data.json is 0.1 hours old. Still fresh.
+2025-11-12 09:06:54,745 - INFO - City weather data is still fresh. No update needed.
+2025-11-12 09:06:54,746 - INFO - ============================================================
+2025-11-12 09:06:54,746 - INFO - Starting Grid Weather Update
+2025-11-12 09:06:54,746 - INFO - ============================================================
+2025-11-12 09:06:54,747 - INFO - Grid data file grid_weather_data_1degree.json is 0.1 hours old. Still fresh.
+2025-11-12 09:06:54,747 - INFO - Grid weather data is still fresh. No update needed.
+2025-11-12 09:06:54,747 - INFO - ============================================================
+2025-11-12 09:06:54,747 - INFO - Starting Port Weather Update
+2025-11-12 09:06:54,747 - INFO - ============================================================
+2025-11-12 09:06:54,748 - INFO - Port data file ../pelabuhan/pelabuhan_weather_data.json is 0.1 hours old. Still fresh.
+2025-11-12 09:06:54,748 - INFO - Port weather data is still fresh. No update needed.
+2025-11-12 09:07:12,638 - INFO - Unified Weather Update System Exited
+2025-11-12 09:21:56,270 - INFO - Unified Weather Data Update System Started
+2025-11-12 09:22:02,413 - INFO - ============================================================
+2025-11-12 09:22:02,414 - INFO - Starting City Weather Update
+2025-11-12 09:22:02,414 - INFO - ============================================================
+2025-11-12 09:22:02,414 - INFO - Most recent data in city_weather_data.json is 1823.5 hours old (fetched_at=2025-08-28T09:53:36.248976). Update needed.
+2025-11-12 09:22:02,414 - INFO - Setting up OpenMeteo client...
+2025-11-12 09:22:02,431 - INFO - Loading city coordinates...
+2025-11-12 09:22:02,431 - INFO - Loaded 86 cities from namaKota.json
+2025-11-12 09:22:02,432 - INFO - Fetching weather data for 86 cities...
+2025-11-12 09:22:02,432 - INFO - Fetching weather data for 86 cities...
+2025-11-12 09:22:03,536 - INFO - Successfully processed 86 cities
+2025-11-12 09:22:03,544 - INFO - Saved 86 cities to city_weather_data.json (0.0 MB)
+2025-11-12 09:22:03,549 - INFO - Backup saved as city_weather_data_backup_20251112_092203.json
+2025-11-12 09:22:03,550 - INFO - File modification time updated to force cache refresh
+2025-11-12 09:22:03,555 - INFO - Updated 86 cities
+2025-11-12 09:22:03,555 - INFO - ============================================================
+2025-11-12 09:22:03,557 - INFO - Starting Grid Weather Update
+2025-11-12 09:22:03,557 - INFO - ============================================================
+2025-11-12 09:22:03,557 - INFO - Grid data file grid_weather_data_1degree.json is 0.4 hours old. Still fresh.
+2025-11-12 09:22:03,557 - INFO - Grid weather data is still fresh. No update needed.
+2025-11-12 09:22:03,558 - INFO - ============================================================
+2025-11-12 09:22:03,558 - INFO - Starting Port Weather Update
+2025-11-12 09:22:03,558 - INFO - ============================================================
+2025-11-12 09:22:03,558 - INFO - Port data file ../pelabuhan/pelabuhan_weather_data.json is 0.4 hours old. Still fresh.
+2025-11-12 09:22:03,558 - INFO - Port weather data is still fresh. No update needed.
+2025-11-12 09:25:57,989 - INFO - Unified Weather Update System Exited
+2025-11-12 09:26:14,078 - INFO - Unified Weather Data Update System Started
+2025-11-12 09:26:18,281 - INFO - ============================================================
+2025-11-12 09:26:18,282 - INFO - Starting City Weather Update
+2025-11-12 09:26:18,282 - INFO - ============================================================
+2025-11-12 09:26:18,285 - INFO - Most recent data in city_weather_data.json is 0.1 hours old (fetched_at=2025-11-12T09:22:03.536814). Still fresh.
+2025-11-12 09:26:18,286 - INFO - City weather data is still fresh. No update needed.
+2025-11-12 09:26:18,287 - INFO - ============================================================
+2025-11-12 09:26:18,287 - INFO - Starting Grid Weather Update
+2025-11-12 09:26:18,287 - INFO - ============================================================
+2025-11-12 09:26:18,287 - INFO - Grid data file grid_weather_data_1degree.json is 0.4 hours old. Still fresh.
+2025-11-12 09:26:18,288 - INFO - Grid weather data is still fresh. No update needed.
+2025-11-12 09:26:18,288 - INFO - ============================================================
+2025-11-12 09:26:18,288 - INFO - Starting Port Weather Update
+2025-11-12 09:26:18,288 - INFO - ============================================================
+2025-11-12 09:26:18,289 - INFO - Port data file ../pelabuhan/pelabuhan_weather_data.json is 0.4 hours old. Still fresh.
+2025-11-12 09:26:18,289 - INFO - Port weather data is still fresh. No update needed.
+2025-11-12 09:28:20,061 - INFO - Unified Weather Update System Exited

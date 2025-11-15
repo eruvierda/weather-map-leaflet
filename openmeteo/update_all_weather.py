@@ -22,7 +22,8 @@ from update_city_weather import (
     setup_openmeteo_client, 
     fetch_city_weather_data, 
     save_city_weather_data, 
-    check_data_freshness as check_city_freshness
+    check_data_freshness as check_city_freshness,
+    get_latest_city_fetch_time
 )
 
 # Setup logging
@@ -204,8 +205,17 @@ def show_status():
     city_status = "✅ Fresh" if check_city_freshness() else "❌ Needs Update"
     city_file = 'city_weather_data.json'
     if os.path.exists(city_file):
-        city_age = (time.time() - os.path.getmtime(city_file)) / 3600
-        logger.info(f"City Weather: {city_status} (Age: {city_age:.1f} hours)")
+        city_latest = get_latest_city_fetch_time(city_file)
+        if city_latest is not None:
+            city_age = _hours_since(city_latest)
+            logger.info(
+                f"City Weather: {city_status} (Age: {city_age:.1f} hours, fetched_at={city_latest.isoformat()})"
+            )
+        else:
+            city_age = (time.time() - os.path.getmtime(city_file)) / 3600
+            logger.info(
+                f"City Weather: {city_status} (No fetched_at timestamps found, file age={city_age:.1f} hours)"
+            )
     else:
         logger.info("City Weather: ❌ File Not Found")
     
@@ -213,8 +223,17 @@ def show_status():
     grid_status = "✅ Fresh" if check_grid_data_freshness() else "❌ Needs Update"
     grid_file = 'grid_weather_data_1degree.json'
     if os.path.exists(grid_file):
-        grid_age = (time.time() - os.path.getmtime(grid_file)) / 3600
-        logger.info(f"Grid Weather: {grid_status} (Age: {grid_age:.1f} hours)")
+        grid_latest = _get_latest_grid_fetch_time(grid_file)
+        if grid_latest is not None:
+            grid_age = _hours_since(grid_latest)
+            logger.info(
+                f"Grid Weather: {grid_status} (Age: {grid_age:.1f} hours, fetched_at={grid_latest.isoformat()})"
+            )
+        else:
+            grid_age = (time.time() - os.path.getmtime(grid_file)) / 3600
+            logger.info(
+                f"Grid Weather: {grid_status} (No fetched_at timestamps found, file age={grid_age:.1f} hours)"
+            )
     else:
         logger.info("Grid Weather: ❌ File Not Found")
     
@@ -222,8 +241,17 @@ def show_status():
     port_status = "✅ Fresh" if check_port_data_freshness() else "❌ Needs Update"
     port_file = '../pelabuhan/pelabuhan_weather_data.json'
     if os.path.exists(port_file):
-        port_age = (time.time() - os.path.getmtime(port_file)) / 3600
-        logger.info(f"Port Weather: {port_status} (Age: {port_age:.1f} hours)")
+        port_latest = _get_latest_port_time(port_file)
+        if port_latest is not None:
+            port_age = _hours_since(port_latest)
+            logger.info(
+                f"Port Weather: {port_status} (Age: {port_age:.1f} hours, latest timestamp={port_latest.isoformat()})"
+            )
+        else:
+            port_age = (time.time() - os.path.getmtime(port_file)) / 3600
+            logger.info(
+                f"Port Weather: {port_status} (No timestamps found, file age={port_age:.1f} hours)"
+            )
     else:
         logger.info("Port Weather: ❌ File Not Found")
     
